@@ -16,7 +16,7 @@ import { executeJavascriptNodeCommandAsynchronously } from "@red-cup-engineering
 import { gitCommitPathsPlan, gitWorktreePlan, readNameStatus, readOid } from "@red-cup-engineering/git-services-section/git-command-codec";
 import { composed, parseGitmodules } from "@red-cup-engineering/git-services-section/gitmodules";
 import { nodeFirstEnvironment } from "@red-cup-engineering/node-process-services-section/environment";
-import { candidateNameOk, nameCandidateSync } from "@red-cup-engineering/node-runtime-release-promotion-service/integrate";
+import { candidateNameOk, nameCandidateSync } from "../git/github-candidate.mjs";
 
 const ORIGIN_MAIN = "refs/remotes/origin/main";
 const STEP_POLICY = Object.freeze({ timeoutMilliseconds: 600_000, outputLimit: 8 * 1024 * 1024 });
@@ -110,7 +110,8 @@ async function integrateSubmodules({ workspace, submodules, runner }) {
       await runStep(runner, gitWorktreePlan.rebaseAbort(), directory);
       return submodule;
     }
-    if ((await runStep(runner, gitWorktreePlan.pushMain(), directory)).status !== 0) return submodule;
+    nameCandidateSync({ repository: directory, name: `node/submodule-${head.slice(0,12)}`, commit: await worktreeHead({workspace:directory,runner}), sourceBase: readOid((await runStep(runner,gitCommitPathsPlan.remoteMain(),directory)).stdout) });
+    return submodule; // Its owning PR must merge before the parent can pin it.
   }
   return undefined;
 }
@@ -271,7 +272,7 @@ export function candidateNameOfBranch(branch) {
   return name;
 }
 
-/** Hand the worktree's commits to the node's merge queue: rebase onto the latest origin/main, join
+/** Hand the worktree's commits to the owning repository's pull-request queue: rebase onto the latest origin/main, join
  *  each moved submodule to its own main, and name the resulting head a candidate (`candidate`, else
  *  the branch's name, else a name from the head) that the node integrates, admits and publishes.
  *  Main has one writer, so nothing here pushes the superrepo. On a conflict, a `resolve({ workspace, conflicts, head })` the caller
@@ -309,7 +310,7 @@ export async function integrateWorktree({ workspace, branch, candidate, stranded
     if (unjoined !== undefined) break;
     const head = await worktreeHead({ workspace, runner });
     const named = nameCandidateSync({ repository: workspace, name: candidate ?? (branch === undefined ? `node/worktree-${head.slice(0, 12)}` : candidateNameOfBranch(branch)), commit: head, sourceBase, message: (await runStep(runner, gitCommitPathsPlan.commitMessage(head), workspace)).stdout });
-    return outcome({ head, queued: true, candidate: Object.freeze({ name: named.name, commit: named.commit }) });
+    return outcome({ head, queued: true, candidate: Object.freeze({ name: named.name, commit: named.commit, pullRequest: named.pullRequest }) });
   }
   if (branch !== undefined) await runStep(runner, gitWorktreePlan.resetBranch(branch, kept), workspace);
   await publishWorktreeBranch({ workspace, branch: stranded, runner });

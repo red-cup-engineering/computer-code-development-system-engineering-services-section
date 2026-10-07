@@ -1,0 +1,18 @@
+[Unit]
+Description=561 Group repository code and package graph MCP service
+Documentation=file:///home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-code-engineering-services-section/apps/workspace-analysis/content/deployment/systemd-user/README.md
+After=default.target
+StartLimitIntervalSec=300
+StartLimitBurst=5
+
+[Service]
+Type=simple
+WorkingDirectory=/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-code-engineering-services-section/apps/workspace-analysis
+ExecStart=/home/emsenn/.local/bin/node src/cli.mjs serve --root /home/emsenn/info --port 18808 --interval 60 --journal-root .
+Restart=on-failure
+RestartSec=5
+OOMScoreAdjust=-500
+MemoryHigh=768M
+
+[Install]
+WantedBy=default.target

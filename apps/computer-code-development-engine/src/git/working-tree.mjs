@@ -69,7 +69,20 @@ export function workingTreeOf(moduleUrl, { environment = process.env } = {}) {
   }
   const root = named === undefined ? sourceRoot : realpathSync(named);
   if (root === undefined) throw new TypeError(`working tree: ${directory} is in no checkout and no node job names a working tree`);
-  const here = path.join(root, path.relative(sourceRoot, directory));
+  // Released programs name their mutable data carrier explicitly. Its layout
+  // is independent of pnpm's virtual store or the installed generation.
+  const dataPackage = environment.NODE_JOB_DATA_PACKAGE_ROOT?.trim();
+  let packageRoot = directory;
+  if (dataPackage) {
+    while (!existsSync(path.join(packageRoot, 'package.json'))) {
+      const parent = path.dirname(packageRoot);
+      if (parent === packageRoot) throw new TypeError('working tree: program has no source package');
+      packageRoot = parent;
+    }
+  }
+  if (!dataPackage && !sourceRoot) throw new TypeError('working tree: released job must declare its mutable data package');
+  const here = dataPackage ? path.resolve(dataPackage, path.relative(packageRoot, directory))
+                           : path.join(root, path.relative(sourceRoot, directory));
   const custody = named === undefined ? null : custodyOf(environment.NODE_JOB_CUSTODY);
   const holds = (file) => {
     const relative = posix(path.relative(root, path.resolve(root, file)));

@@ -1,0 +1,472 @@
+{"at":"2026-09-06T00:19:06.978Z","tool":"jsnode_search","query":{"query":"http fetch client"},"results":85,"truncated":false,"durationMs":69,"error":null}
+{"at":"2026-09-06T00:19:27.842Z","tool":"jsnode_search","query":{"query":"dashboard"},"results":1,"truncated":false,"durationMs":38,"error":null}
+{"at":"2026-09-06T00:19:28.445Z","tool":"jsnode_search","query":{"query":"daily briefing"},"results":19,"truncated":false,"durationMs":56,"error":null}
+{"at":"2026-09-06T00:19:29.187Z","tool":"jsnode_section","query":{"query":"daily routine review companion","limit":6},"results":1,"truncated":false,"durationMs":918,"error":null}
+{"at":"2026-09-06T00:25:39.054Z","tool":"jsnode_section","query":{"query":"mental health","limit":8},"results":1,"truncated":false,"durationMs":2141,"error":null}
+{"at":"2026-09-06T00:25:41.200Z","tool":"jsnode_section","query":{"query":"climate","limit":8},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T00:25:55.830Z","tool":"jsnode_search","query":{"query":"schedule"},"results":9,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-06T00:25:56.154Z","tool":"jsnode_search","query":{"query":"icalendar recurrence rrule"},"results":1,"truncated":false,"durationMs":45,"error":null}
+{"at":"2026-09-06T00:25:56.202Z","tool":"jsnode_section","query":{"query":"scheduling calendar recurrence timer","limit":6},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T00:27:05.987Z","tool":"jsnode_duplication","query":{"scope":"metroplat","minimumBytes":120,"limit":3},"results":234,"truncated":true,"durationMs":1847,"error":null}
+{"at":"2026-09-06T00:28:14.082Z","tool":"jsnode_section","query":{"query":"media semiotic public","limit":6},"results":1,"truncated":false,"durationMs":746,"error":null}
+{"at":"2026-09-06T00:28:14.830Z","tool":"jsnode_section","query":{"query":"economics science","limit":4},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T00:28:17.746Z","tool":"jsnode_search","query":{"query":"installed npm package"},"results":2,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-06T00:28:17.820Z","tool":"jsnode_search","query":{"query":"operation catalog"},"results":2,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T00:28:17.892Z","tool":"jsnode_search","query":{"query":"load operation"},"results":1,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T00:30:27.657Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fern"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T00:30:27.667Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-resource-catalog-service"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: @red-cup-engineering/typed-resource-catalog-service"}
+{"at":"2026-09-06T00:30:27.672Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fae"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T00:31:31.899Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fae"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T00:36:12.247Z","tool":"jsnode_search","query":{"query":"ebook production","limit":3},"results":3,"truncated":false,"durationMs":84,"error":null}
+{"at":"2026-09-06T00:36:12.334Z","tool":"jsnode_search","query":{"query":"newsletter issue production","limit":3},"results":2,"truncated":false,"durationMs":62,"error":null}
+{"at":"2026-09-06T00:36:12.399Z","tool":"jsnode_search","query":{"query":"youtube channel production","limit":3},"results":4,"truncated":false,"durationMs":73,"error":null}
+{"at":"2026-09-06T00:36:12.813Z","tool":"jsnode_search","query":{"query":"genre affect play chronicle","limit":4},"results":62,"truncated":false,"durationMs":57,"error":null}
+{"at":"2026-09-06T00:36:13.498Z","tool":"jsnode_search","query":{"query":"x402 gateway paid","limit":4},"results":31,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-06T00:36:14.130Z","tool":"jsnode_search","query":{"query":"ecological adaptation territory place","limit":4},"results":42,"truncated":false,"durationMs":55,"error":null}
+{"at":"2026-09-06T00:36:14.935Z","tool":"jsnode_search","query":{"query":"bilattice charge belnap FOUR","limit":4},"results":45,"truncated":false,"durationMs":60,"error":null}
+{"at":"2026-09-06T00:36:15.562Z","tool":"jsnode_search","query":{"query":"markdown site static publishing html","limit":4},"results":170,"truncated":false,"durationMs":69,"error":null}
+{"at":"2026-09-06T00:36:40.277Z","tool":"jsnode_search","query":{"query":"semantic record journal","limit":2},"results":2,"truncated":false,"durationMs":69,"error":null}
+{"at":"2026-09-06T00:36:40.956Z","tool":"jsnode_search","query":{"query":"html engineering render document","limit":4},"results":1,"truncated":false,"durationMs":68,"error":null}
+{"at":"2026-09-06T00:36:41.037Z","tool":"jsnode_search","query":{"query":"Tomkins affect Berlant impasse genre","limit":4},"results":3,"truncated":false,"durationMs":59,"error":null}
+{"at":"2026-09-06T00:39:28.872Z","tool":"jsnode_section","query":{"query":"economics economy currency commodity resource","limit":12},"results":1,"truncated":false,"durationMs":2268,"error":null}
+{"at":"2026-09-06T00:46:24.929Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":371,"error":null}
+{"at":"2026-09-06T00:46:32.787Z","tool":"jsnode_duplication","query":{"scope":"computer-solar-economic-systems-engineering-services-section"},"results":0,"truncated":false,"durationMs":379,"error":null}
+{"at":"2026-09-06T00:46:44.032Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fold-fabrication-receipt-into-world-rows-service"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T00:47:29.998Z","tool":"jsnode_section","query":{"query":"calendar scheduling icalendar recurrence"},"results":1,"truncated":false,"durationMs":1378,"error":null}
+{"at":"2026-09-06T00:47:31.379Z","tool":"jsnode_search","query":{"query":"icalendar recurrence rrule schedule"},"results":10,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-06T00:47:31.432Z","tool":"jsnode_status","query":{},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T00:47:44.726Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/found-services-section-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T00:48:39.410Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":791,"error":null}
+{"at":"2026-09-06T00:48:41.788Z","tool":"jsnode_section","query":{"query":"territorial economy","limit":10},"results":1,"truncated":false,"durationMs":1453,"error":null}
+{"at":"2026-09-06T00:50:47.828Z","tool":"jsnode_search","query":{"query":"json schema validate instance cli"},"results":152,"truncated":false,"durationMs":57,"error":null}
+{"at":"2026-09-06T00:50:47.888Z","tool":"jsnode_term","query":{"name":"resource row"},"results":1,"truncated":false,"durationMs":7961,"error":null}
+{"at":"2026-09-06T01:00:28.712Z","tool":"jsnode_section","query":{"query":"climate","limit":15},"results":1,"truncated":false,"durationMs":3425,"error":null}
+{"at":"2026-09-06T01:00:34.845Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":839,"error":null}
+{"at":"2026-09-06T01:00:35.737Z","tool":"jsnode_duplication","query":{"scope":"computer-solar-economic-systems-engineering-services-section"},"results":1,"truncated":false,"durationMs":982,"error":null}
+{"at":"2026-09-06T01:00:48.148Z","tool":"jsnode_section","query":{"query":"mental health","limit":10},"results":1,"truncated":false,"durationMs":2713,"error":null}
+{"at":"2026-09-06T01:05:19.801Z","tool":"jsnode_section","query":{"query":"bibliography engineering"},"results":1,"truncated":false,"durationMs":1609,"error":null}
+{"at":"2026-09-06T01:09:39.561Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":414,"error":null}
+{"at":"2026-09-06T01:09:39.990Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-solar-economic-systems-engineering-services-section"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-06T01:13:35.898Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":633,"error":null}
+{"at":"2026-09-06T01:13:38.271Z","tool":"jsnode_search","query":{"query":"value chain shares"},"results":1,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-06T01:19:29.166Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-resource-catalog"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T01:19:29.212Z","tool":"jsnode_search","query":{"query":"thing model"},"results":2,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T01:20:46.685Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":619,"error":null}
+{"at":"2026-09-06T01:20:51.978Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/schedule-set-of-votes-service"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T01:21:35.737Z","tool":"jsnode_search","query":{"query":"payment receiver"},"results":2,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-06T01:22:36.492Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/lagoon-services-section"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T01:22:58.403Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":556,"error":null}
+{"at":"2026-09-06T01:23:02.048Z","tool":"jsnode_duplication","query":{"scope":"salt-pan-solar"},"results":0,"truncated":false,"durationMs":912,"error":null}
+{"at":"2026-09-06T01:23:08.011Z","tool":"jsnode_duplication","query":{"scope":"solar"},"results":1,"truncated":false,"durationMs":723,"error":null}
+{"at":"2026-09-06T01:23:08.737Z","tool":"jsnode_duplication","query":{"scope":"ephemeris"},"results":0,"truncated":false,"durationMs":738,"error":null}
+{"at":"2026-09-06T01:23:41.591Z","tool":"jsnode_duplication","query":{"scope":"public-services-section"},"results":1081,"truncated":false,"durationMs":6306,"error":null}
+{"at":"2026-09-06T01:24:22.391Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":655,"error":null}
+{"at":"2026-09-06T01:24:26.329Z","tool":"jsnode_section","query":{"query":"no-buy crypto","limit":10},"results":1,"truncated":false,"durationMs":1163,"error":null}
+{"at":"2026-09-06T01:24:27.498Z","tool":"jsnode_section","query":{"query":"no-buy ai","limit":10},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T01:24:40.422Z","tool":"jsnode_section","query":{"query":"zero price economics diaphragm no-buy ai","limit":5},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T01:24:56.922Z","tool":"jsnode_search","query":{"query":"schedule"},"results":11,"truncated":false,"durationMs":56,"error":null}
+{"at":"2026-09-06T01:24:56.980Z","tool":"jsnode_search","query":{"query":"daily"},"results":18,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-06T01:24:57.035Z","tool":"jsnode_search","query":{"query":"timer"},"results":2,"truncated":false,"durationMs":63,"error":null}
+{"at":"2026-09-06T01:27:56.649Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T01:28:39.040Z","tool":"jsnode_search","query":{"query":"consent scope"},"results":27,"truncated":false,"durationMs":80,"error":null}
+{"at":"2026-09-06T01:28:39.442Z","tool":"jsnode_search","query":{"query":"benefit sharing"},"results":2,"truncated":false,"durationMs":65,"error":null}
+{"at":"2026-09-06T01:28:39.924Z","tool":"jsnode_search","query":{"query":"validate-json-service"},"results":3,"truncated":false,"durationMs":59,"error":null}
+{"at":"2026-09-06T01:28:40.389Z","tool":"jsnode_search","query":{"query":"resource-row schema"},"results":1,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-06T01:28:40.440Z","tool":"jsnode_search","query":{"query":"indigenous data governance consulting"},"results":1,"truncated":false,"durationMs":46,"error":null}
+{"at":"2026-09-06T01:28:41.639Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":511,"error":null}
+{"at":"2026-09-06T01:28:42.172Z","tool":"jsnode_search","query":{"query":"icalendar"},"results":3,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T01:29:14.600Z","tool":"jsnode_duplication","query":{"scope":"icalendar","limit":10},"results":0,"truncated":false,"durationMs":790,"error":null}
+{"at":"2026-09-06T01:30:04.917Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/validate-json-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T01:30:04.929Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-record-journal-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T01:30:32.835Z","tool":"jsnode_duplication","query":{},"results":6881,"truncated":false,"durationMs":11857,"error":null}
+{"at":"2026-09-06T01:30:49.931Z","tool":"jsnode_duplication","query":{},"results":6881,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T01:33:20.092Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/playing"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T01:36:07.420Z","tool":"jsnode_search","query":{"query":"articulate"},"results":1,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T01:37:56.061Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":2433,"error":null}
+{"at":"2026-09-06T01:38:01.934Z","tool":"jsnode_section","query":{"query":"no-buy ai","limit":10},"results":1,"truncated":false,"durationMs":2356,"error":null}
+{"at":"2026-09-06T01:38:20.256Z","tool":"jsnode_search","query":{"query":"newsletter issue production"},"results":2,"truncated":false,"durationMs":51,"error":null}
+{"at":"2026-09-06T01:38:22.403Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/newsletter-issue-production-services-section"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T01:42:30.985Z","tool":"jsnode_search","query":{"query":"workspace import audit"},"results":43,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-06T01:42:37.593Z","tool":"jsnode_duplication","query":{"scope":"crock"},"results":1,"truncated":false,"durationMs":510,"error":null}
+{"at":"2026-09-06T01:45:02.987Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":467,"error":null}
+{"at":"2026-09-06T01:45:06.774Z","tool":"jsnode_section","query":{"query":"no-buy crypto","limit":5},"results":1,"truncated":false,"durationMs":1096,"error":null}
+{"at":"2026-09-06T01:45:16.286Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":419,"error":null}
+{"at":"2026-09-06T01:45:19.758Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/expand-recurrence-rule-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T01:45:20.021Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/derive-set-of-due-events-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T01:52:27.593Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":372,"error":null}
+{"at":"2026-09-06T01:52:30.006Z","tool":"jsnode_search","query":{"query":"territory readout"},"results":1,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T01:52:51.771Z","tool":"jsnode_duplication","query":{"scope":"derive-territory-readout"},"results":0,"truncated":false,"durationMs":335,"error":null}
+{"at":"2026-09-06T02:00:40.685Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":432,"error":null}
+{"at":"2026-09-06T02:00:41.146Z","tool":"jsnode_search","query":{"query":"benefit share"},"results":58,"truncated":false,"durationMs":167,"error":null}
+{"at":"2026-09-06T02:00:45.624Z","tool":"jsnode_search","query":{"query":"exact fraction bigint rational arithmetic"},"results":79,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T02:00:45.665Z","tool":"jsnode_search","query":{"query":"derive-benefit-share"},"results":107,"truncated":false,"durationMs":32,"error":null}
+{"at":"2026-09-06T02:03:30.041Z","tool":"jsnode_search","query":{"query":"infograph"},"results":1,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-06T02:13:33.580Z","tool":"jsnode_search","query":{"query":"canonical json"},"results":8,"truncated":false,"durationMs":66,"error":null}
+{"at":"2026-09-06T02:13:33.657Z","tool":"jsnode_search","query":{"query":"ni identity"},"results":10,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T02:14:09.947Z","tool":"jsnode_search","query":{"query":"cbor-ni-service"},"results":3,"truncated":false,"durationMs":379,"error":null}
+{"at":"2026-09-06T02:14:10.329Z","tool":"jsnode_search","query":{"query":"ni token identify content"},"results":376,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-06T02:16:08.162Z","tool":"jsnode_term","query":{"name":"watershed"},"results":1,"truncated":false,"durationMs":4358,"error":null}
+{"at":"2026-09-06T02:16:12.521Z","tool":"jsnode_term","query":{"name":"WIT"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T02:16:12.527Z","tool":"jsnode_term","query":{"name":"ATT"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T02:16:12.548Z","tool":"jsnode_term","query":{"name":"ACK"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T02:16:12.554Z","tool":"jsnode_search","query":{"query":"watershed"},"results":0,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-06T02:16:12.604Z","tool":"jsnode_search","query":{"query":"solar"},"results":5,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-06T02:17:16.830Z","tool":"jsnode_term","query":{"name":"modeled-union-dimension"},"results":1,"truncated":false,"durationMs":5079,"error":null}
+{"at":"2026-09-06T02:17:21.912Z","tool":"jsnode_term","query":{"name":"settlement"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-06T02:17:21.921Z","tool":"jsnode_term","query":{"name":"SEA"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-06T02:17:21.930Z","tool":"jsnode_term","query":{"name":"territory"},"results":1,"truncated":false,"durationMs":11,"error":null}
+{"at":"2026-09-06T02:17:21.944Z","tool":"jsnode_search","query":{"query":"eavt","limit":6},"results":35,"truncated":false,"durationMs":46,"error":null}
+{"at":"2026-09-06T02:17:21.992Z","tool":"jsnode_search","query":{"query":"json schema validate instance","limit":4},"results":1,"truncated":false,"durationMs":48,"error":null}
+{"at":"2026-09-06T02:17:22.089Z","tool":"jsnode_search","query":{"query":"energy exchange record","limit":4},"results":1,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-06T02:19:31.647Z","tool":"jsnode_term","query":{"name":"emergy"},"results":1,"truncated":false,"durationMs":4622,"error":null}
+{"at":"2026-09-06T02:19:36.283Z","tool":"jsnode_term","query":{"name":"place"},"results":1,"truncated":false,"durationMs":8,"error":null}
+{"at":"2026-09-06T02:19:36.292Z","tool":"jsnode_section","query":{"query":"eavt"},"results":1,"truncated":false,"durationMs":955,"error":null}
+{"at":"2026-09-06T02:20:09.508Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":639,"error":null}
+{"at":"2026-09-06T02:20:25.260Z","tool":"jsnode_search","query":{"query":"workspace import audit"},"results":43,"truncated":false,"durationMs":49,"error":null}
+{"at":"2026-09-06T02:20:31.573Z","tool":"jsnode_duplication","query":{"scope":"computer-territorial-economic-systems-engineering-services-section","limit":20},"results":4,"truncated":false,"durationMs":947,"error":null}
+{"at":"2026-09-06T02:21:06.392Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":424,"error":null}
+{"at":"2026-09-06T02:21:06.829Z","tool":"jsnode_search","query":{"query":"benefit share","limit":5},"results":1,"truncated":false,"durationMs":45,"error":null}
+{"at":"2026-09-06T02:21:10.967Z","tool":"jsnode_search","query":{"query":"semantic record journal","limit":3},"results":2,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T02:23:29.298Z","tool":"jsnode_term","query":{"name":"settlement"},"results":1,"truncated":false,"durationMs":5491,"error":null}
+{"at":"2026-09-06T02:23:34.794Z","tool":"jsnode_term","query":{"name":"dervish-protected-defect"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T02:23:51.395Z","tool":"jsnode_search","query":{"query":"irradiance"},"results":2,"truncated":false,"durationMs":47,"error":null}
+{"at":"2026-09-06T02:23:51.443Z","tool":"jsnode_search","query":{"query":"yield projection"},"results":1,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T02:23:51.888Z","tool":"jsnode_search","query":{"query":"joules per settled row"},"results":1,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-06T02:23:52.387Z","tool":"jsnode_search","query":{"query":"household energy barrier"},"results":1,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-06T02:23:52.433Z","tool":"jsnode_search","query":{"query":"emergy"},"results":0,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-06T02:25:15.067Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":314,"error":null}
+{"at":"2026-09-06T02:25:15.391Z","tool":"jsnode_section","query":{"query":"energy exchange"},"results":1,"truncated":false,"durationMs":646,"error":null}
+{"at":"2026-09-06T02:37:44.250Z","tool":"jsnode_section","query":{"query":"markdown","limit":20},"results":1,"truncated":false,"durationMs":1021,"error":null}
+{"at":"2026-09-06T02:37:45.277Z","tool":"jsnode_search","query":{"query":"read markdown file"},"results":3,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T02:37:45.302Z","tool":"jsnode_search","query":{"query":"read markdown frontmatter"},"results":3,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-06T02:37:50.569Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/read-markdown-file-service"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T02:37:50.597Z","tool":"jsnode_search","query":{"query":"markdown section heading body"},"results":1,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-06T02:37:50.633Z","tool":"jsnode_search","query":{"query":"markdown table"},"results":161,"truncated":false,"durationMs":38,"error":null}
+{"at":"2026-09-06T02:41:34.933Z","tool":"jsnode_search","query":{"query":"attention allocation","limit":5},"results":2,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-06T02:41:34.989Z","tool":"jsnode_search","query":{"query":"inference pnl receipts cost per wit","limit":5},"results":522,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T02:43:02.200Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T02:43:02.304Z","tool":"jsnode_analysis","query":{},"results":1,"truncated":false,"durationMs":315,"error":null}
+{"at":"2026-09-06T02:44:39.624Z","tool":"jsnode_search","query":{"query":"newsletter issue production"},"results":2,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T02:44:39.856Z","tool":"jsnode_search","query":{"query":"validate json service"},"results":3,"truncated":false,"durationMs":38,"error":null}
+{"at":"2026-09-06T02:45:25.392Z","tool":"jsnode_search","query":{"query":"resource rows from measurement"},"results":1,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-06T02:45:47.819Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-set-of-resource-rows-from-measurement-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T02:48:42.096Z","tool":"jsnode_search","query":{"query":"repin consumer migrate pinned dependency","limit":6},"results":39,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-06T02:48:42.142Z","tool":"jsnode_search","query":{"query":"work allocation admit ready duty dispatch","limit":6},"results":240,"truncated":false,"durationMs":47,"error":null}
+{"at":"2026-09-06T02:52:25.257Z","tool":"jsnode_search","query":{"query":"validate json schema instance"},"results":1,"truncated":false,"durationMs":51,"error":null}
+{"at":"2026-09-06T02:56:08.656Z","tool":"jsnode_search","query":{"query":"continuation reading"},"results":47,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-06T02:56:58.691Z","tool":"jsnode_search","query":{"query":"authority"},"results":22,"truncated":false,"durationMs":47,"error":null}
+{"at":"2026-09-06T02:56:58.747Z","tool":"jsnode_search","query":{"query":"invocation"},"results":5,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-06T02:57:36.694Z","tool":"jsnode_duplication","query":{"limit":8},"results":6979,"truncated":true,"durationMs":22631,"error":null}
+{"at":"2026-09-06T02:57:59.329Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":698,"error":null}
+{"at":"2026-09-06T02:58:00.040Z","tool":"jsnode_search","query":{"query":"continuation reading"},"results":1,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T02:59:17.348Z","tool":"jsnode_duplication","query":{"limit":120,"scope":"computer-data"},"results":135,"truncated":true,"durationMs":864,"error":null}
+{"at":"2026-09-06T02:59:29.452Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/json-codec-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T02:59:29.459Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/drew"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T02:59:29.464Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:01:02.679Z","tool":"jsnode_term","query":{"name":"thing"},"results":1,"truncated":false,"durationMs":8686,"error":null}
+{"at":"2026-09-06T03:01:11.369Z","tool":"jsnode_term","query":{"name":"quality"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-06T03:01:11.379Z","tool":"jsnode_term","query":{"name":"resource"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T03:01:11.388Z","tool":"jsnode_term","query":{"name":"entity"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T03:01:11.397Z","tool":"jsnode_term","query":{"name":"attribute"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T03:01:26.794Z","tool":"jsnode_duplication","query":{"scope":"/apps/drew","limit":2},"results":7,"truncated":true,"durationMs":608,"error":null}
+{"at":"2026-09-06T03:02:00.120Z","tool":"jsnode_package","query":{"name":"@lenticule-science/articulating"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T03:03:42.480Z","tool":"jsnode_duplication","query":{"limit":30,"scope":"articulation-services-section"},"results":197,"truncated":true,"durationMs":1438,"error":null}
+{"at":"2026-09-06T03:05:02.455Z","tool":"jsnode_search","query":{"query":"eavt"},"results":35,"truncated":false,"durationMs":81,"error":null}
+{"at":"2026-09-06T03:05:02.545Z","tool":"jsnode_search","query":{"query":"independent evidence"},"results":6,"truncated":false,"durationMs":67,"error":null}
+{"at":"2026-09-06T03:05:02.621Z","tool":"jsnode_search","query":{"query":"eavt row"},"results":17,"truncated":false,"durationMs":74,"error":null}
+{"at":"2026-09-06T03:05:06.734Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":959,"error":null}
+{"at":"2026-09-06T03:05:15.109Z","tool":"jsnode_duplication","query":{"scope":"project-set-of-resource-rows-from-measurement-service"},"results":1,"truncated":false,"durationMs":916,"error":null}
+{"at":"2026-09-06T03:05:20.555Z","tool":"jsnode_section","query":{"query":"datom","limit":3},"results":1,"truncated":false,"durationMs":8299,"error":null}
+{"at":"2026-09-06T03:07:12.691Z","tool":"jsnode_search","query":{"query":"responsiveness"},"results":0,"truncated":false,"durationMs":63,"error":null}
+{"at":"2026-09-06T03:07:12.759Z","tool":"jsnode_search","query":{"query":"follow-up record"},"results":1161,"truncated":false,"durationMs":62,"error":null}
+{"at":"2026-09-06T03:13:50.772Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cbor-codec-service"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T03:13:50.953Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cbor-ni-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:18:03.675Z","tool":"jsnode_term","query":{"name":"eavt"},"results":1,"truncated":false,"durationMs":18872,"error":null}
+{"at":"2026-09-06T03:18:27.469Z","tool":"jsnode_term","query":{"name":"negation"},"results":1,"truncated":false,"durationMs":8744,"error":null}
+{"at":"2026-09-06T03:18:36.219Z","tool":"jsnode_term","query":{"name":"seavt"},"results":1,"truncated":false,"durationMs":9,"error":null}
+{"at":"2026-09-06T03:23:19.920Z","tool":"jsnode_search","query":{"query":"session bootstrap"},"results":20,"truncated":false,"durationMs":62,"error":null}
+{"at":"2026-09-06T03:23:20.011Z","tool":"jsnode_search","query":{"query":"agent work"},"results":10,"truncated":false,"durationMs":56,"error":null}
+{"at":"2026-09-06T03:23:20.074Z","tool":"jsnode_search","query":{"query":"context injection"},"results":19,"truncated":false,"durationMs":68,"error":null}
+{"at":"2026-09-06T03:23:40.857Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/software-program-synthesis-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T03:23:40.918Z","tool":"jsnode_package","query":{"name":"@coesite-operations/enterprise-board-of-directors-executive-office-context-compilation-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T03:23:40.987Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/bare-cedar-fog-codex-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:30:34.086Z","tool":"jsnode_search","query":{"query":"inference-dispatch-service"},"results":1,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-06T03:36:29.830Z","tool":"jsnode_section","query":{"query":"roadmap","limit":12},"results":1,"truncated":false,"durationMs":1109,"error":null}
+{"at":"2026-09-06T03:36:30.942Z","tool":"jsnode_section","query":{"query":"ledger","limit":12},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T03:36:31.289Z","tool":"jsnode_search","query":{"query":"roadmap","limit":12},"results":0,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T03:37:50.859Z","tool":"jsnode_section","query":{"query":"roadmap","limit":8},"results":1,"truncated":false,"durationMs":784,"error":null}
+{"at":"2026-09-06T03:37:51.648Z","tool":"jsnode_section","query":{"query":"ledger","limit":8},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T03:38:06.828Z","tool":"jsnode_term","query":{"name":"roadmap"},"results":1,"truncated":false,"durationMs":3206,"error":null}
+{"at":"2026-09-06T03:38:10.036Z","tool":"jsnode_term","query":{"name":"milestone"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T03:38:10.043Z","tool":"jsnode_section","query":{"query":"project management planning work","limit":8},"results":1,"truncated":false,"durationMs":656,"error":null}
+{"at":"2026-09-06T03:38:10.701Z","tool":"jsnode_search","query":{"query":"x402 settlement","limit":8},"results":5,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T03:38:10.729Z","tool":"jsnode_search","query":{"query":"candidate transactions ledger","limit":8},"results":55,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-06T03:41:47.296Z","tool":"jsnode_search","query":{"query":"openai computer","limit":8},"results":79,"truncated":false,"durationMs":28,"error":null}
+{"at":"2026-09-06T03:41:47.977Z","tool":"jsnode_search","query":{"query":"ribosome workbench","limit":8},"results":0,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-06T03:41:48.664Z","tool":"jsnode_search","query":{"query":"sheaf laplacian","limit":8},"results":1,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-06T03:42:05.935Z","tool":"jsnode_search","query":{"query":"computing concurrent games","limit":6},"results":36,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-06T03:42:06.624Z","tool":"jsnode_search","query":{"query":"event driven architecture EDA","limit":6},"results":57,"truncated":false,"durationMs":22,"error":null}
+{"at":"2026-09-06T03:42:32.977Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computing"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T03:42:33.670Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T03:42:52.192Z","tool":"jsnode_search","query":{"query":"openai codex harness","limit":5},"results":21,"truncated":false,"durationMs":67,"error":null}
+{"at":"2026-09-06T03:42:52.262Z","tool":"jsnode_search","query":{"query":"jsnode-web-computer","limit":5},"results":159,"truncated":false,"durationMs":69,"error":null}
+{"at":"2026-09-06T03:43:08.844Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/x402-market-observation-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:43:08.846Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/x402-settlement-witness-identity"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:43:08.848Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/settle-hbd-purchase-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:43:09.019Z","tool":"jsnode_section","query":{"query":"computer-ledger-system"},"results":1,"truncated":false,"durationMs":818,"error":null}
+{"at":"2026-09-06T03:43:09.839Z","tool":"jsnode_search","query":{"query":"resolve-payment-receiver"},"results":1,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-06T03:43:09.863Z","tool":"jsnode_search","query":{"query":"hardcoded payment receivers"},"results":19,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-06T03:43:14.568Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-ledger-system-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:44:25.466Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/ethereum-services-section"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T03:44:25.470Z","tool":"jsnode_search","query":{"query":"USDC transfer log receiver base"},"results":172,"truncated":false,"durationMs":39,"error":null}
+{"at":"2026-09-06T03:46:44.859Z","tool":"jsnode_search","query":{"query":"inference dispatch free lane","limit":5},"results":1,"truncated":false,"durationMs":32,"error":null}
+{"at":"2026-09-06T03:46:45.175Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/classify-work-demand-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T03:46:45.183Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fabricate-markdown-jsnode-operation-package-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T03:47:21.994Z","tool":"jsnode_search","query":{"query":"salt-pan-solar"},"results":1,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-06T03:47:22.025Z","tool":"jsnode_search","query":{"query":"paid-ephemeris-gateway"},"results":1,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-06T03:47:37.472Z","tool":"jsnode_package","query":{"name":"@causeway-services/public-solar-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T03:54:21.346Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/hierarchical-circuit-law"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T03:54:21.421Z","tool":"jsnode_package","query":{"name":"@lenticule-science/hierarchical-circuit-equivalence-assay"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T03:55:09.214Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/receiver-owned-tool-agent-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T03:55:23.755Z","tool":"jsnode_search","query":{"query":"release package on host","limit":4},"results":1255,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-06T03:55:42.087Z","tool":"jsnode_search","query":{"query":"workbench"},"results":0,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-06T04:13:25.253Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/software-mission-execution-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T04:19:47.990Z","tool":"jsnode_section","query":{"query":"federation replication sync","limit":8},"results":1,"truncated":false,"durationMs":1114,"error":null}
+{"at":"2026-09-06T04:19:52.898Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: @red-cup-engineering/eavt"}
+{"at":"2026-09-06T04:20:01.552Z","tool":"jsnode_search","query":{"query":"eavt","limit":5},"results":34,"truncated":false,"durationMs":93,"error":null}
+{"at":"2026-09-06T04:20:05.982Z","tool":"jsnode_search","query":{"query":"eavt","limit":34},"results":34,"truncated":false,"durationMs":155,"error":null}
+{"at":"2026-09-06T04:20:12.140Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":407,"error":null}
+{"at":"2026-09-06T04:20:14.479Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: @red-cup-engineering/eavt"}
+{"at":"2026-09-06T04:20:33.900Z","tool":"jsnode_search","query":{"query":"journal replicate federate witness","limit":10},"results":86,"truncated":false,"durationMs":57,"error":null}
+{"at":"2026-09-06T04:21:19.236Z","tool":"jsnode_section","query":{"query":"key-management-services-section","limit":3},"results":1,"truncated":false,"durationMs":652,"error":null}
+{"at":"2026-09-06T04:21:22.885Z","tool":"jsnode_section","query":{"query":"key management","limit":5},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T04:21:30.792Z","tool":"jsnode_duplication","query":{"scope":"software-mission-execution-service","limit":2},"results":6,"truncated":true,"durationMs":419,"error":null}
+{"at":"2026-09-06T04:22:35.991Z","tool":"jsnode_section","query":{"query":"check set of hardcoded payment receivers","limit":3},"results":1,"truncated":false,"durationMs":1766,"error":null}
+{"at":"2026-09-06T04:44:40.956Z","tool":"jsnode_duplication","query":{"scope":"software-program-synthesis-service","limit":1},"results":5,"truncated":true,"durationMs":736,"error":null}
+{"at":"2026-09-06T04:48:18.676Z","tool":"jsnode_section","query":{"query":"sales","limit":7},"results":1,"truncated":false,"durationMs":1630,"error":null}
+{"at":"2026-09-06T04:48:31.320Z","tool":"jsnode_search","query":{"query":"unit-economics","limit":4},"results":1,"truncated":false,"durationMs":58,"error":null}
+{"at":"2026-09-06T04:48:31.384Z","tool":"jsnode_search","query":{"query":"commission","limit":4},"results":4,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-06T04:48:31.431Z","tool":"jsnode_search","query":{"query":"prospect","limit":4},"results":0,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-06T04:48:31.469Z","tool":"jsnode_search","query":{"query":"retail","limit":4},"results":6,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T04:48:31.511Z","tool":"jsnode_search","query":{"query":"business","limit":4},"results":16,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-06T04:48:41.152Z","tool":"jsnode_section","query":{"query":"business","limit":8},"results":1,"truncated":false,"durationMs":758,"error":null}
+{"at":"2026-09-06T04:56:22.681Z","tool":"jsnode_search","query":{"query":"discharge-set-of-ready-duties"},"results":434,"truncated":false,"durationMs":66,"error":null}
+{"at":"2026-09-06T04:56:22.768Z","tool":"jsnode_search","query":{"query":"classify-work-demand"},"results":2,"truncated":false,"durationMs":81,"error":null}
+{"at":"2026-09-06T04:56:43.303Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-work-computer-system-engineering-services-section"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T04:57:42.160Z","tool":"jsnode_search","query":{"query":"discharge ready duties"},"results":28,"truncated":false,"durationMs":79,"error":null}
+{"at":"2026-09-06T04:58:41.616Z","tool":"jsnode_search","query":{"query":"friction"},"results":0,"truncated":false,"durationMs":32,"error":null}
+{"at":"2026-09-06T05:03:11.550Z","tool":"jsnode_section","query":{"query":"consumer goods","limit":8},"results":1,"truncated":false,"durationMs":1294,"error":null}
+{"at":"2026-09-06T05:08:07.909Z","tool":"jsnode_section","query":{"query":"consumer goods","limit":10},"results":1,"truncated":false,"durationMs":836,"error":null}
+{"at":"2026-09-06T05:12:49.023Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/paid-ephemeris-gateway"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T14:23:26.326Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/inference-dispatch-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T15:46:04.425Z","tool":"jsnode_search","query":{"query":"ops-561-group-mcp-gateway","limit":2},"results":1,"truncated":false,"durationMs":57,"error":null}
+{"at":"2026-09-06T15:47:15.266Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/ops-561-group-mcp-gateway-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T15:47:29.625Z","tool":"jsnode_search","query":{"query":"login","limit":5},"results":1,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T15:47:31.248Z","tool":"jsnode_search","query":{"query":"release-package-on-host","limit":2},"results":1,"truncated":false,"durationMs":51,"error":null}
+{"at":"2026-09-06T15:47:48.824Z","tool":"jsnode_search","query":{"query":"html document","limit":5},"results":3,"truncated":false,"durationMs":39,"error":null}
+{"at":"2026-09-06T15:51:56.420Z","tool":"jsnode_term","query":{"name":"actor"},"results":1,"truncated":false,"durationMs":6359,"error":null}
+{"at":"2026-09-06T15:52:03.152Z","tool":"jsnode_term","query":{"name":"character"},"results":1,"truncated":false,"durationMs":2579,"error":null}
+{"at":"2026-09-06T15:52:05.735Z","tool":"jsnode_term","query":{"name":"player"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T15:52:05.743Z","tool":"jsnode_term","query":{"name":"user"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T15:52:05.751Z","tool":"jsnode_term","query":{"name":"account"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T15:52:05.759Z","tool":"jsnode_term","query":{"name":"credential"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T15:52:05.886Z","tool":"jsnode_section","query":{"query":"identity access","limit":4},"results":1,"truncated":false,"durationMs":862,"error":null}
+{"at":"2026-09-06T15:52:06.807Z","tool":"jsnode_duplication","query":{"scope":"oauth","limit":3,"minimumBytes":180},"results":1,"truncated":false,"durationMs":448,"error":null}
+{"at":"2026-09-06T15:52:20.230Z","tool":"jsnode_search","query":{"query":"actor-engineering","limit":5},"results":3,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-06T15:52:20.260Z","tool":"jsnode_search","query":{"query":"account","limit":5},"results":78,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T15:52:20.294Z","tool":"jsnode_search","query":{"query":"credential","limit":5},"results":22,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-06T15:52:20.332Z","tool":"jsnode_search","query":{"query":"authentication","limit":5},"results":4,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T15:52:20.368Z","tool":"jsnode_search","query":{"query":"session","limit":5},"results":18,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-06T15:52:20.401Z","tool":"jsnode_search","query":{"query":"authorization","limit":5},"results":15,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-06T15:52:20.433Z","tool":"jsnode_search","query":{"query":"tufte","limit":5},"results":6,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-06T15:52:32.708Z","tool":"jsnode_term","query":{"name":"principal"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T15:52:32.717Z","tool":"jsnode_term","query":{"name":"identity-key"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T15:52:32.727Z","tool":"jsnode_term","query":{"name":"identity-key-custody"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T15:52:32.735Z","tool":"jsnode_term","query":{"name":"account-binding"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T15:52:32.745Z","tool":"jsnode_term","query":{"name":"capability"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T15:52:32.759Z","tool":"jsnode_term","query":{"name":"incumbency"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T15:52:32.770Z","tool":"jsnode_term","query":{"name":"mask"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T15:52:32.944Z","tool":"jsnode_search","query":{"query":"principal","limit":6},"results":12,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-06T15:52:32.973Z","tool":"jsnode_search","query":{"query":"browser session","limit":6},"results":2,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T15:52:33.001Z","tool":"jsnode_search","query":{"query":"credential custody","limit":6},"results":1,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-06T15:52:33.033Z","tool":"jsnode_search","query":{"query":"identity","limit":6},"results":37,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-06T15:52:33.068Z","tool":"jsnode_search","query":{"query":"victor","limit":6},"results":4,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-06T15:52:52.804Z","tool":"jsnode_section","query":{"query":"web identity","limit":2},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T15:54:50.297Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/victor"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T15:54:50.376Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/human-identity-attribution-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T15:56:45.751Z","tool":"jsnode_search","query":{"query":"cookie","limit":35},"results":2,"truncated":false,"durationMs":39,"error":null}
+{"at":"2026-09-06T15:56:45.810Z","tool":"jsnode_search","query":{"query":"session","limit":35},"results":18,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-06T15:56:45.856Z","tool":"jsnode_search","query":{"query":"openid","limit":35},"results":0,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T15:56:45.889Z","tool":"jsnode_search","query":{"query":"credential","limit":35},"results":22,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-06T15:56:45.937Z","tool":"jsnode_search","query":{"query":"keycloak","limit":35},"results":0,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T15:56:45.970Z","tool":"jsnode_search","query":{"query":"web-release","limit":35},"results":2,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-06T15:57:47.581Z","tool":"jsnode_section","query":{"query":"specification engineering","limit":8},"results":1,"truncated":false,"durationMs":2694,"error":null}
+{"at":"2026-09-06T15:57:50.281Z","tool":"jsnode_search","query":{"query":"specification","limit":15},"results":12,"truncated":false,"durationMs":64,"error":null}
+{"at":"2026-09-06T16:01:39.076Z","tool":"jsnode_search","query":{"query":"npm-workspace-publication-service","limit":1},"results":2,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-06T16:01:48.008Z","tool":"jsnode_search","query":{"query":"json schema validate","limit":6},"results":3,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-06T16:02:13.930Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/found-services-section-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T16:02:50.317Z","tool":"jsnode_search","query":{"query":"jwt","limit":8},"results":0,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-06T16:02:50.377Z","tool":"jsnode_search","query":{"query":"oidc","limit":8},"results":0,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-06T16:02:50.425Z","tool":"jsnode_search","query":{"query":"verify token","limit":8},"results":2,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-06T16:02:50.473Z","tool":"jsnode_search","query":{"query":"jwk","limit":8},"results":1,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T16:02:50.517Z","tool":"jsnode_search","query":{"query":"principal session","limit":8},"results":30,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-06T16:11:51.168Z","tool":"jsnode_search","query":{"query":"serve google oauth","limit":20,"detail":true},"results":3,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-06T16:11:51.256Z","tool":"jsnode_search","query":{"query":"google oauth","limit":20,"detail":true},"results":6,"truncated":false,"durationMs":38,"error":null}
+{"at":"2026-09-06T16:11:51.340Z","tool":"jsnode_search","query":{"query":"exchange google callback","limit":20,"detail":true},"results":1,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-06T16:15:40.133Z","tool":"jsnode_search","query":{"query":"principal","limit":8},"results":12,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T16:15:40.224Z","tool":"jsnode_search","query":{"query":"authority-grant","limit":8},"results":2,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-06T16:15:40.292Z","tool":"jsnode_search","query":{"query":"session","limit":8},"results":18,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-06T16:26:50.628Z","tool":"jsnode_search","query":{"query":"specification","limit":40},"results":12,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T16:30:52.116Z","tool":"jsnode_search","query":{"query":"typed resource","limit":8},"results":9,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T16:30:52.146Z","tool":"jsnode_search","query":{"query":"markdown document carrier kind","limit":8},"results":171,"truncated":false,"durationMs":28,"error":null}
+{"at":"2026-09-06T16:31:39.177Z","tool":"jsnode_duplication","query":{"scope":"lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-identity-system-services-section","limit":5,"minimumBytes":150},"results":0,"truncated":false,"durationMs":503,"error":null}
+{"at":"2026-09-06T16:31:39.762Z","tool":"jsnode_term","query":{"name":"principal-session"},"results":1,"truncated":false,"durationMs":4859,"error":null}
+{"at":"2026-09-06T16:31:44.664Z","tool":"jsnode_term","query":{"name":"account"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-06T16:31:44.720Z","tool":"jsnode_term","query":{"name":"credential"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T16:35:05.598Z","tool":"jsnode_search","query":{"query":"institution","limit":14},"results":5,"truncated":false,"durationMs":62,"error":null}
+{"at":"2026-09-06T16:35:05.665Z","tool":"jsnode_search","query":{"query":"membership","limit":14},"results":4,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-06T16:35:05.712Z","tool":"jsnode_search","query":{"query":"identity","limit":14},"results":37,"truncated":false,"durationMs":51,"error":null}
+{"at":"2026-09-06T16:35:05.770Z","tool":"jsnode_search","query":{"query":"actor","limit":14},"results":24,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-06T16:35:16.314Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/organizing"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T16:35:16.385Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:35:16.472Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:30.408Z","tool":"jsnode_types","query":{"match":"Membership"},"results":0,"truncated":false,"durationMs":3855,"error":null}
+{"at":"2026-09-06T16:36:34.338Z","tool":"jsnode_search","query":{"query":"actor","limit":20,"detail":true},"results":24,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-06T16:36:34.470Z","tool":"jsnode_search","query":{"query":"identity","limit":20,"detail":true},"results":37,"truncated":false,"durationMs":48,"error":null}
+{"at":"2026-09-06T16:36:34.589Z","tool":"jsnode_search","query":{"query":"organizing","limit":10,"detail":true},"results":3,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-06T16:36:34.696Z","tool":"jsnode_types","query":{"match":"Identity"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:34.766Z","tool":"jsnode_types","query":{"match":"Actor"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:34.845Z","tool":"jsnode_search","query":{"query":"human identity attribution","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-06T16:36:47.701Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/organizing"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T16:36:47.710Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:47.716Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:47.725Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/human-identity-attribution-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:47.730Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/ops-561-group-mcp-gateway-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:54.949Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/organizing"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:55.024Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:55.104Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:55.177Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/human-identity-attribution-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:36:55.255Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/ops-561-group-mcp-gateway-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:38:03.312Z","tool":"jsnode_fabrication_records","query":{"limit":20},"results":1,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-06T16:51:09.458Z","tool":"jsnode_search","query":{"query":"credential","limit":7},"results":22,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-06T16:51:09.561Z","tool":"jsnode_search","query":{"query":"account","limit":7},"results":78,"truncated":false,"durationMs":28,"error":null}
+{"at":"2026-09-06T16:51:09.638Z","tool":"jsnode_search","query":{"query":"identity provider","limit":7},"results":1,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T16:51:14.641Z","tool":"jsnode_search","query":{"query":"organizing","limit":10,"detail":true},"results":3,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-06T16:51:14.715Z","tool":"jsnode_search","query":{"query":"feltos","limit":10,"detail":true},"results":5,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-06T16:51:29.175Z","tool":"jsnode_search","query":{"query":"openid","limit":8},"results":0,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T16:51:53.150Z","tool":"jsnode_search","query":{"query":"principal","limit":12},"results":12,"truncated":false,"durationMs":49,"error":null}
+{"at":"2026-09-06T16:51:53.206Z","tool":"jsnode_search","query":{"query":"authentication","limit":12},"results":4,"truncated":false,"durationMs":60,"error":null}
+{"at":"2026-09-06T16:51:53.273Z","tool":"jsnode_search","query":{"query":"user management","limit":12},"results":1,"truncated":false,"durationMs":78,"error":null}
+{"at":"2026-09-06T16:51:53.359Z","tool":"jsnode_search","query":{"query":"keycloak","limit":12},"results":0,"truncated":false,"durationMs":71,"error":null}
+{"at":"2026-09-06T16:51:53.436Z","tool":"jsnode_search","query":{"query":"session","limit":12},"results":18,"truncated":false,"durationMs":67,"error":null}
+{"at":"2026-09-06T16:52:32.013Z","tool":"jsnode_search","query":{"query":"fabrication","limit":6},"results":25,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-06T16:52:42.842Z","tool":"jsnode_search","query":{"query":"fabrication","limit":5},"results":25,"truncated":false,"durationMs":106,"error":null}
+{"at":"2026-09-06T16:52:52.346Z","tool":"jsnode_search","query":{"query":"create-jsnode-operation-package","limit":2},"results":2,"truncated":false,"durationMs":51,"error":null}
+{"at":"2026-09-06T16:52:52.403Z","tool":"jsnode_search","query":{"query":"translate-markdown-jsnode","limit":2},"results":1,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-06T16:53:20.785Z","tool":"jsnode_search","query":{"query":"fabrication context","limit":3},"results":44,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-06T16:53:32.159Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/software-program-synthesis-service"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T16:53:55.377Z","tool":"jsnode_search","query":{"query":"import stratification check","limit":6},"results":58,"truncated":false,"durationMs":49,"error":null}
+{"at":"2026-09-06T16:54:19.483Z","tool":"jsnode_search","query":{"query":"identity root","limit":5},"results":59,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-06T16:54:19.542Z","tool":"jsnode_search","query":{"query":"DID","limit":5},"results":23,"truncated":false,"durationMs":48,"error":null}
+{"at":"2026-09-06T16:54:19.597Z","tool":"jsnode_search","query":{"query":"verifiable credential","limit":5},"results":22,"truncated":false,"durationMs":39,"error":null}
+{"at":"2026-09-06T16:54:19.641Z","tool":"jsnode_search","query":{"query":"key management","limit":5},"results":3,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-06T16:54:25.847Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computing"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T16:57:18.741Z","tool":"jsnode_types","query":{"match":"Principal"},"results":0,"truncated":false,"durationMs":2453,"error":null}
+{"at":"2026-09-06T16:57:21.213Z","tool":"jsnode_types","query":{"match":"Session"},"results":0,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T16:57:21.221Z","tool":"jsnode_types","query":{"match":"Membership"},"results":0,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T16:58:20.469Z","tool":"jsnode_duplication","query":{"scope":"jsnode-package-services-section","limit":3},"results":13,"truncated":true,"durationMs":2006,"error":null}
+{"at":"2026-09-06T16:58:47.232Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/jsnode-operation-package-specification-admission-service"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T16:58:47.243Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/create-jsnode-operation-package-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:58:47.251Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-jsnode-operation-package-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T16:58:47.257Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/read-jsnode-operation-arguments-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T16:58:47.264Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-jsnode-operation-source-from-arguments-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T16:58:47.269Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/jsnode-package-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-06T17:00:40.394Z","tool":"jsnode_search","query":{"query":"execution target","limit":4},"results":41,"truncated":false,"durationMs":122,"error":null}
+{"at":"2026-09-06T17:06:50.589Z","tool":"jsnode_search","query":{"query":"systemd","limit":8},"results":4,"truncated":false,"durationMs":70,"error":null}
+{"at":"2026-09-06T17:06:50.694Z","tool":"jsnode_search","query":{"query":"heap","limit":8},"results":1,"truncated":false,"durationMs":48,"error":null}
+{"at":"2026-09-06T17:06:50.748Z","tool":"jsnode_search","query":{"query":"resource envelope","limit":8},"results":54,"truncated":false,"durationMs":69,"error":null}
+{"at":"2026-09-06T17:16:10.234Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/metroplat"},"results":1,"truncated":false,"durationMs":9,"error":null}
+{"at":"2026-09-06T17:18:53.819Z","tool":"jsnode_search","query":{"query":"import stratification","limit":3},"results":23,"truncated":false,"durationMs":124,"error":null}
+{"at":"2026-09-06T17:19:11.645Z","tool":"jsnode_package","query":{"name":"@lenticule-science/articulating"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T17:29:46.914Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":2547,"error":null}
+{"at":"2026-09-06T17:29:53.069Z","tool":"jsnode_section","query":{"query":"gig work science","limit":3},"results":1,"truncated":false,"durationMs":4866,"error":null}
+{"at":"2026-09-06T17:29:57.940Z","tool":"jsnode_section","query":{"query":"medical engineering","limit":3},"results":1,"truncated":false,"durationMs":9,"error":null}
+{"at":"2026-09-06T17:29:57.961Z","tool":"jsnode_section","query":{"query":"561 group economic operations","limit":3},"results":1,"truncated":false,"durationMs":8,"error":null}
+{"at":"2026-09-06T17:29:57.976Z","tool":"jsnode_section","query":{"query":"no buy operations","limit":3},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-06T17:29:57.986Z","tool":"jsnode_section","query":{"query":"solar economics science","limit":3},"results":1,"truncated":false,"durationMs":10,"error":null}
+{"at":"2026-09-06T17:32:13.593Z","tool":"jsnode_search","query":{"query":"account","limit":6},"results":78,"truncated":false,"durationMs":130,"error":null}
+{"at":"2026-09-06T17:32:23.516Z","tool":"jsnode_search","query":{"query":"identity","limit":40},"results":38,"truncated":false,"durationMs":133,"error":null}
+{"at":"2026-09-06T17:32:23.694Z","tool":"jsnode_search","query":{"query":"membership","limit":40},"results":4,"truncated":false,"durationMs":111,"error":null}
+{"at":"2026-09-06T17:32:23.816Z","tool":"jsnode_search","query":{"query":"principal","limit":40},"results":12,"truncated":false,"durationMs":121,"error":null}
+{"at":"2026-09-06T17:34:38.396Z","tool":"jsnode_section","query":{"query":"operations computer data document","limit":20},"results":1,"truncated":false,"durationMs":6746,"error":null}
+{"at":"2026-09-06T17:41:43.904Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-06T17:44:49.521Z","tool":"jsnode_section","query":{"query":"towpath culvert splint achromat","limit":5},"results":1,"truncated":false,"durationMs":2799,"error":null}
+{"at":"2026-09-06T17:55:21.438Z","tool":"jsnode_duplication","query":{"scope":"jsnode-package-services-section","limit":3},"results":18,"truncated":true,"durationMs":1384,"error":null}
+{"at":"2026-09-06T18:04:15.630Z","tool":"jsnode_search","query":{"query":"agent work dispatch","limit":6,"detail":false},"results":1,"truncated":false,"durationMs":69,"error":null}
+{"at":"2026-09-06T18:04:20.867Z","tool":"jsnode_search","query":{"query":"metroplat","limit":8,"detail":false},"results":4,"truncated":false,"durationMs":51,"error":null}
+{"at":"2026-09-06T18:04:20.924Z","tool":"jsnode_search","query":{"query":"work intent","limit":8,"detail":false},"results":2,"truncated":false,"durationMs":56,"error":null}
+{"at":"2026-09-06T18:04:59.686Z","tool":"jsnode_search","query":{"query":"pnpm","limit":5},"results":1,"truncated":false,"durationMs":86,"error":null}
+{"at":"2026-09-06T18:29:29.509Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":430,"error":null}
+{"at":"2026-09-06T18:29:31.540Z","tool":"jsnode_duplication","query":{"scope":"bibliography-engineering-services-section","minimumBytes":32,"limit":30},"results":12,"truncated":false,"durationMs":527,"error":null}
+{"at":"2026-09-06T19:32:44.316Z","tool":"jsnode_atlas","query":{},"results":1402,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-06T19:32:44.884Z","tool":"jsnode_duplication","query":{"limit":25},"results":6976,"truncated":true,"durationMs":21724,"error":null}
+{"at":"2026-09-06T19:33:32.757Z","tool":"jsnode_duplication","query":{"limit":500},"results":6976,"truncated":true,"durationMs":14987,"error":null}
+{"at":"2026-09-06T19:34:19.134Z","tool":"jsnode_domains","query":{},"results":1402,"truncated":false,"durationMs":11,"error":null}
+{"at":"2026-09-06T19:34:19.167Z","tool":"jsnode_duplication","query":{"scope":"computer-systems","limit":25},"results":2376,"truncated":true,"durationMs":5964,"error":null}
+{"at":"2026-09-06T19:34:31.468Z","tool":"jsnode_section","query":{"query":"computer systems engineering","limit":5},"results":1,"truncated":false,"durationMs":1036,"error":null}
+{"at":"2026-09-06T19:34:32.506Z","tool":"jsnode_section","query":{"query":"computer data engineering","limit":5},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T19:34:32.512Z","tool":"jsnode_section","query":{"query":"computer code engineering","limit":5},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T19:34:32.517Z","tool":"jsnode_section","query":{"query":"computer networking engineering","limit":5},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T19:34:32.521Z","tool":"jsnode_search","query":{"query":"jsnode-computer","limit":5},"results":1,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T19:36:50.545Z","tool":"jsnode_search","query":{"query":"parse command line arguments","limit":8},"results":117,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-06T19:45:25.418Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":14,"error":null}
+{"at":"2026-09-06T19:45:27.125Z","tool":"jsnode_query","query":{"limit":5},"results":1428,"truncated":true,"durationMs":3,"error":null}
+{"at":"2026-09-06T19:46:37.544Z","tool":"jsnode_duplication","query":{"limit":30},"results":6976,"truncated":true,"durationMs":51347,"error":null}
+{"at":"2026-09-06T20:18:47.397Z","tool":"jsnode_search","query":{"query":"semver semantic versioning"},"results":29,"truncated":false,"durationMs":61,"error":null}
+{"at":"2026-09-06T20:18:47.798Z","tool":"jsnode_term","query":{"name":"semver"},"results":1,"truncated":false,"durationMs":6279,"error":null}
+{"at":"2026-09-06T20:18:54.081Z","tool":"jsnode_section","query":{"query":"versioning registry publish"},"results":1,"truncated":false,"durationMs":1009,"error":null}
+{"at":"2026-09-06T20:19:04.562Z","tool":"jsnode_search","query":{"query":"version bump prerelease dev version allocation"},"results":53,"truncated":false,"durationMs":46,"error":null}
+{"at":"2026-09-06T20:19:13.657Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/jsnode-packaging-services-section"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-06T20:19:13.672Z","tool":"jsnode_search","query":{"query":"version identity allocate release class"},"results":115,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-06T20:19:31.064Z","tool":"jsnode_search","query":{"query":"dev tag prerelease channel next version"},"results":82,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T20:19:37.026Z","tool":"jsnode_package","query":{"name":"npm-workspace-publication-service"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: npm-workspace-publication-service"}
+{"at":"2026-09-06T20:19:41.137Z","tool":"jsnode_search","query":{"query":"npm-workspace-publication-service","limit":3},"results":2,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-06T20:22:15.713Z","tool":"jsnode_duplication","query":{"limit":15},"results":6963,"truncated":true,"durationMs":16005,"error":null}
+{"at":"2026-09-06T20:40:57.124Z","tool":"jsnode_search","query":{"query":"dependency install","limit":5},"results":3,"truncated":false,"durationMs":39,"error":null}
+{"at":"2026-09-06T20:40:57.214Z","tool":"jsnode_search","query":{"query":"cleanup","limit":5},"results":0,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-06T20:40:57.253Z","tool":"jsnode_search","query":{"query":"temporary","limit":5},"results":4,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-06T20:41:31.139Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/npm-package-install-resolution-assay-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T20:41:31.154Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/consumer-dependency-closure-installation-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T20:42:24.465Z","tool":"jsnode_search","query":{"query":"install","limit":5},"results":11,"truncated":false,"durationMs":64,"error":null}
+{"at":"2026-09-06T21:43:24.725Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-06T21:43:26.358Z","tool":"jsnode_query","query":{"limit":5},"results":1429,"truncated":true,"durationMs":3,"error":null}
+{"at":"2026-09-06T21:44:12.961Z","tool":"jsnode_duplication","query":{"limit":3},"results":6849,"truncated":true,"durationMs":18334,"error":null}
+{"at":"2026-09-06T21:44:55.207Z","tool":"jsnode_term","query":{"name":"specification"},"results":1,"truncated":false,"durationMs":8348,"error":null}
+{"at":"2026-09-06T22:04:25.295Z","tool":"jsnode_domains","query":{},"results":1403,"truncated":false,"durationMs":14,"error":null}
+{"at":"2026-09-06T22:50:44.567Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":17,"error":null}
+{"at":"2026-09-06T22:50:46.067Z","tool":"jsnode_query","query":{"limit":5},"results":1430,"truncated":true,"durationMs":3,"error":null}
+{"at":"2026-09-06T23:27:51.215Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":15,"error":null}
+{"at":"2026-09-06T23:27:52.728Z","tool":"jsnode_query","query":{"limit":5},"results":1430,"truncated":true,"durationMs":2,"error":null}
+{"at":"2026-09-06T22:39:28.057Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/found-services-section-service"},"results":1,"truncated":false,"durationMs":9,"error":null}
+{"at":"2026-09-06T22:39:28.100Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fold-directory-entries-into-services-section-form-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T22:49:35.080Z","tool":"jsnode_query","query":{"description":"services-section","return":["name","description","layer"],"limit":40},"results":44,"truncated":true,"durationMs":6,"error":null}
+{"at":"2026-09-06T22:53:34.716Z","tool":"jsnode_search","query":{"query":"scaffold directory from schema","limit":15},"results":195,"truncated":false,"durationMs":189,"error":null}
+{"at":"2026-09-06T22:53:34.916Z","tool":"jsnode_search","query":{"query":"json schema validate","limit":15},"results":3,"truncated":false,"durationMs":126,"error":null}
+{"at":"2026-09-06T22:53:35.053Z","tool":"jsnode_search","query":{"query":"conformance","limit":15},"results":12,"truncated":false,"durationMs":129,"error":null}
+{"at":"2026-09-06T22:53:35.185Z","tool":"jsnode_search","query":{"query":"section shape","limit":15},"results":2,"truncated":false,"durationMs":84,"error":null}
+{"at":"2026-09-06T22:54:08.325Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/found-services-section-service"},"results":1,"truncated":false,"durationMs":14,"error":null}
+{"at":"2026-09-06T22:54:08.343Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fold-directory-entries-into-services-section-form-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T22:54:08.644Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/validate-json-schema-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T22:56:43.792Z","tool":"jsnode_search","query":{"query":"directory template scaffold package skeleton computer-systems","limit":10},"results":218,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-06T22:56:43.829Z","tool":"jsnode_section","query":{"query":"computer systems directory scaffolding template","limit":5},"results":1,"truncated":false,"durationMs":1204,"error":null}
+{"at":"2026-09-06T23:10:27.276Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/filepath-services-section"},"results":1,"truncated":false,"durationMs":15,"error":null}
+{"at":"2026-09-06T23:10:27.659Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T23:10:27.883Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-file-url-filepath-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T23:12:57.455Z","tool":"jsnode_search","query":{"query":"basename filepath","limit":15},"results":1,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-06T23:13:03.511Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-filepath-basename-service"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-06T23:39:56.547Z","tool":"jsnode_status","query":{},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T23:39:57.285Z","tool":"jsnode_search","query":{"query":"read npm package info manifest","limit":10},"results":332,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-06T23:39:57.339Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fold-directory-entries-into-services-section-form-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T23:39:57.344Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/path-walking-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T23:43:27.192Z","tool":"jsnode_search","query":{"query":"find repository root walking up ancestor","limit":8},"results":1171,"truncated":false,"durationMs":55,"error":null}
+{"at":"2026-09-06T23:51:57.602Z","tool":"jsnode_search","query":{"query":"stage text file creation projections","limit":5},"results":2,"truncated":false,"durationMs":41,"error":null}

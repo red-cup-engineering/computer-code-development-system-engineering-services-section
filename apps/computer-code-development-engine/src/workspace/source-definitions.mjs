@@ -4,7 +4,6 @@
  * worker image, finite measured image bounds and exact authorized source roots.
  */
 import {isAbsolute} from "node:path";
-import {MAX_SOURCE_PATH_BYTES} from "./source-request.mjs";
 const names=["workspace-file-window","workspace-file-slice","workspace-text-search"];
 const dimensions=["memoryBytes","readBytes","writeBytes","processes","cpuMillis"];
 export function createWorkspaceSourceDefinitions({roots,image}) {
@@ -26,7 +25,7 @@ export function createWorkspaceSourceDefinitions({roots,image}) {
     validate(input){
       if(!input || !rootOf(input))return false;
       const path=operation==="workspace-text-search"?input.pathPrefix??input.path:input.path??input.id;
-      if(typeof path!=="string" || !path || Buffer.byteLength(path,"utf8")>MAX_SOURCE_PATH_BYTES || isAbsolute(path)
+      if(typeof path!=="string" || !path || path.length>512 || isAbsolute(path)
         || path.split(/[\\/]/u).includes("..") || path.includes("\0"))return false;
       if(Buffer.byteLength(JSON.stringify(input))>16384)return false;
       for(const key of ["byteOffset","startLine","lineCount","limit","maxFileBytes","byteCount"])

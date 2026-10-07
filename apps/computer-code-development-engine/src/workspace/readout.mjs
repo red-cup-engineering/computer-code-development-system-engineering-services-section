@@ -2,7 +2,6 @@
 import path from "node:path";
 import { readSelectedSource } from "./source-worker.mjs";
 import { createWorkspaceSourceResource } from "./source-resource.mjs";
-import { workspaceSourceRequestSchema } from "./source-request.mjs";
 
 import { operation } from "@red-cup-engineering/computer-system-engine/rpc/operation";
 import { artifactId } from "@red-cup-engineering/semiotic-eavt-services-section/identity";
@@ -236,23 +235,20 @@ export function workspaceReadOperations(binding) {
   return Object.freeze([
     operation({
       verb: "workspace-file-window", locus: DUTY_LOCUS, inputFormat: "json", outputFormat: "json",
-      domain: schemaFrom(workspaceSourceRequestSchema("workspace-file-window")),
       summary: "Read a directly sought source window through physical host admission.",
-      description: "Domain: { duty?, scope?, path, byteOffset?, byteCount?, expected? }. path is exact and root-relative, never an absolute path; scope selects a held repository, package or data root (default data). The installed host must provide sourceReadResource.context and sourceReadResource.execute. At most 32 KiB is read; expected binds continuation to one revision. No whole-file digest or global line number is invented.",
+      description: "Domain: { duty?, scope?, path, byteOffset?, byteCount?, expected? }. The installed host owner resolves the authorized source and reserves its finite cost. At most 32 KiB of source is selected; expected binds continuation to one revision. Receiving names the original effect. No complete-file digest or global line number is invented.",
       run: (input, _arguments, execution) => resource.read("workspace-file-window", input, execution),
     }),
     operation({
       verb: "workspace-file-slice", locus: DUTY_LOCUS, inputFormat: "json", outputFormat: "json",
-      domain: schemaFrom(workspaceSourceRequestSchema("workspace-file-slice")),
       summary: "Read lines from one admitted bounded source snapshot.",
-      description: "Domain: { duty?, scope?, path?, id?, startLine?, lineCount?, maxFileBytes? }. path or id selects one exact root-relative file in a held root (scope defaults to data). The installed physical host must provide sourceReadResource.context and sourceReadResource.execute. Exact files are at most 256 KiB; larger evidence uses workspace-file-window. No discovery or traversal occurs.",
+      description: "Domain: { duty?, scope?, path?, id?, startLine?, lineCount? }. The installed physical host owner admits the original effect. Exact files are at most 256 KiB; larger evidence uses workspace-file-window. No prefix fold, discovery or traversal occurs.",
       run: (input, _arguments, execution) => resource.read("workspace-file-slice", input, execution),
     }),
     operation({
       verb: "workspace-text-search", locus: DUTY_LOCUS, inputFormat: "json", outputFormat: "json",
-      domain: schemaFrom(workspaceSourceRequestSchema("workspace-text-search")),
       summary: "Search one exact admitted source snapshot.",
-      description: "Domain: { duty?, scope?, query, pathPrefix?, path?, limit?, maxFileBytes? }. pathPrefix or path selects one exact root-relative file, not a directory; scope defaults to data. The installed physical host must provide sourceReadResource.context and sourceReadResource.execute. Snapshots exceed neither the admitted file limit nor 256 KiB. No traversal, ripgrep or per-query index is launched.",
+      description: "Domain: { duty?, scope?, query, pathPrefix?, path?, limit?, maxFileBytes? }. Select an exact file from an immutable source tree or available owner index. Shared physical-host admission precedes reads. Directory/root traversal and larger-than-256-KiB snapshots are refused; no ripgrep or per-query index is launched.",
       run: (input, _arguments, execution) => resource.read("workspace-text-search", input, execution),
     }),
   ]);
