@@ -19,7 +19,7 @@ import path from "node:path";
 import { operation } from "@red-cup-engineering/computer-system-engine/rpc/operation";
 import { artifactId } from "@red-cup-engineering/semiotic-eavt-services-section/identity";
 import { cutPnpmLockfile, decodePnpmLockfileImporters } from "@red-cup-engineering/jsnode-package-services-section/workspace/pnpm-lockfile";
-import { candidateNameOk, landPathsSync, nameCandidateSync } from "@red-cup-engineering/node-runtime-release-promotion-service/integrate";
+import { candidateNameOk, landPathsSync, nameCandidateSync } from "./github-candidate.mjs";
 
 import { readWorkItemView } from "@red-cup-engineering/feltos/work/service";
 import { DUTY_LOCUS } from "@red-cup-engineering/feltos/work/provider-delegation-authority";
@@ -369,7 +369,7 @@ function candidateNameOf(request) {
 
 /**
  * Commit exactly the named worktree endpoints through a temporary index. With `push`, nothing is
- * committed in the checkout: the named paths land through the node's merge queue as a candidate
+ * committed in the checkout: the named paths land through the owning repository's pull-request queue as a candidate
  * built on origin/main from what the checkout holds at each path (`candidate` names it; a stable
  * name is derived otherwise), and the node integrates, admits and publishes it. A writer never moves
  * main, so the checkout's branch, HEAD, index and other writers' edits are neither read nor moved,
@@ -474,7 +474,7 @@ function branchIntegrationResult(root, phase, request, fields, commands) {
 }
 
 /**
- * Name one contribution branch's exact head as a candidate for the node's merge queue. Main has one
+ * Name one contribution branch's exact head as a candidate for the owning repository's pull-request queue. Main has one
  * writer, the queue, which composes this candidate with origin/main, admits it and publishes; this
  * operation never joins, pushes or moves the checkout, so the checkout's branch, HEAD, index and
  * other writers' edits do not matter. A request naming `expectedBranchHead` queues only while the
@@ -526,7 +526,7 @@ export function integrateGitBranch(binding, input) {
     }
     const candidate = nameCandidateSync({ repository: root, name, commit: branchHead, sourceBase: request.sourceBase, message: request.message });
     return branchIntegrationResult(root, "queued", request, {
-      branchHead, candidate: Object.freeze({ name: candidate.name, commit: candidate.commit }), head: branchHead,
+      branchHead, candidate: Object.freeze({ name: candidate.name, commit: candidate.commit, pullRequest: candidate.pullRequest }), head: branchHead,
       ...(changes === undefined ? {} : { changes }),
       obstructions: Object.freeze([]),
     }, commands);
@@ -603,7 +603,7 @@ function taskSettlement(
  * Publish one exact Git cut after MetroPlat's existing work owner proves its
  * facilitating Task causally discharged. RPC standing supplies authorization;
  * Task settlement supplies readiness only. Main has one writer, so the cut is not
- * committed or pushed here: it is named as a candidate for the node's merge queue
+ * committed or pushed here: it is named as a candidate for the owning repository's pull-request queue
  * whose message carries the settlement trailers, and the node integrates, admits
  * and publishes it. A replay is recognised by those trailers on a HEAD the node's
  * integration has since carried into the checkout, or by the cut already matching
