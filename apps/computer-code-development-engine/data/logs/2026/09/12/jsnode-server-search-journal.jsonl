@@ -1,0 +1,38 @@
+{"at":"2026-09-12T17:43:13.597Z","tool":"jsnode_search","query":{"query":"fabrication","limit":3,"detail":false},"results":24,"truncated":false,"durationMs":182,"error":null}
+{"at":"2026-09-12T17:45:31.691Z","tool":"jsnode_search","query":{"query":"cell-graph"},"results":3,"truncated":false,"durationMs":81,"error":null}
+{"at":"2026-09-12T17:45:43.021Z","tool":"jsnode_search","query":{"query":"cell-graph","detail":true},"results":3,"truncated":false,"durationMs":113,"error":null}
+{"at":"2026-09-12T17:48:01.663Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":21,"error":null}
+{"at":"2026-09-12T17:48:04.703Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-12T17:49:05.722Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":13,"error":null}
+{"at":"2026-09-12T17:49:07.957Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-12T17:53:56.163Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":21,"error":null}
+{"at":"2026-09-12T17:53:58.687Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-12T18:11:21.076Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":16,"error":null}
+{"at":"2026-09-12T18:11:22.981Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-12T18:12:46.902Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":15,"error":null}
+{"at":"2026-09-12T18:12:48.942Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-12T18:17:52.051Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":21,"error":null}
+{"at":"2026-09-12T18:17:54.860Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-12T18:18:53.702Z","tool":"jsnode_search","query":{"query":"jsnode-workspace-analysis-services-section","limit":1,"detail":false},"results":1,"truncated":false,"durationMs":150,"error":null}
+{"at":"2026-09-12T18:20:19.003Z","tool":"jsnode_search","query":{"query":"jsnode-workspace-analysis-services-section","limit":1,"detail":false},"results":1,"truncated":false,"durationMs":80,"error":null}
+{"at":"2026-09-12T18:21:53.645Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":13,"error":null}
+{"at":"2026-09-12T18:21:55.429Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-12T18:23:00.124Z","tool":"jsnode_search","query":{"query":"coding-context-projection-service","limit":1,"detail":false},"results":1,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-12T18:25:14.989Z","tool":"jsnode_search","query":{"query":"Turtle","limit":8,"detail":false},"results":6,"truncated":false,"durationMs":55,"error":null}
+{"at":"2026-09-12T18:27:22.535Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":18,"error":null}
+{"at":"2026-09-12T18:27:24.998Z","tool":"jsnode_query","query":{"limit":5},"results":2,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-12T18:28:34.601Z","tool":"jsnode_search","query":{"query":"jsnode-workspace-analysis-services-section","limit":1,"detail":false},"results":1,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-12T18:31:43.139Z","tool":"jsnode_search","query":{"query":"jsnode-workspace-analysis-services-section","limit":1,"detail":false},"results":1,"truncated":false,"durationMs":60,"error":null}
+{"at":"2026-09-12T18:31:58.698Z","tool":"jsnode_search","query":{"query":"jsnode-engineering-cli","limit":1,"detail":false},"results":2,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-12T18:31:58.758Z","tool":"jsnode_search","query":{"query":"feltos","limit":1,"detail":false},"results":10,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-12T18:33:22.705Z","tool":"jsnode_search","query":{"query":"frog","limit":1,"detail":false},"results":1,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-12T18:33:22.747Z","tool":"jsnode_search","query":{"query":"fold-fabrication-receipt-into-world-rows-service","limit":1,"detail":false},"results":1,"truncated":false,"durationMs":40,"error":null}
+{"at":"2026-09-12T18:37:33.872Z","tool":"jsnode_search","query":{"query":"metroplat","limit":1,"detail":false},"results":5,"truncated":false,"durationMs":99,"error":null}
+{"at":"2026-09-12T18:37:36.729Z","tool":"jsnode_search","query":{"query":"farstone"},"results":2,"truncated":false,"durationMs":45,"error":null}
+{"at":"2026-09-12T18:38:06.965Z","tool":"jsnode_search","query":{"query":"world-hosting"},"results":1,"truncated":false,"durationMs":104,"error":null}
+{"at":"2026-09-12T18:42:20.893Z","tool":"jsnode_search","query":{"query":"world persistence"},"results":20,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-12T18:42:20.957Z","tool":"jsnode_search","query":{"query":"mud server"},"results":50,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-12T18:42:21.018Z","tool":"jsnode_search","query":{"query":"starter world"},"results":17,"truncated":false,"durationMs":70,"error":null}
+{"at":"2026-09-12T18:42:21.105Z","tool":"jsnode_search","query":{"query":"loadJsonSnapshot"},"results":0,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-12T18:42:21.152Z","tool":"jsnode_search","query":{"query":"createMudServer"},"results":0,"truncated":false,"durationMs":32,"error":null}
+{"at":"2026-09-12T18:44:21.026Z","tool":"jsnode_search","query":{"query":"tidepool.emsenn.net"},"results":1,"truncated":false,"durationMs":25,"error":null}

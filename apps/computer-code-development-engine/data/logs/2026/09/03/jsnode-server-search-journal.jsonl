@@ -1,0 +1,25 @@
+{"at":"2026-09-03T19:02:35.204Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":13,"error":null}
+{"at":"2026-09-03T19:02:36.608Z","tool":"jsnode_query","query":{"limit":5},"results":1195,"truncated":true,"durationMs":2,"error":null}
+{"at":"2026-09-03T20:45:23.006Z","tool":"jsnode_search","query":{"query":"resource brokerage"},"results":47,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-03T20:49:00.647Z","tool":"jsnode_search","query":{"query":"exact deps fixer rewrite dependency ranges"},"results":94,"truncated":false,"durationMs":70,"error":null}
+{"at":"2026-09-03T20:49:00.728Z","tool":"jsnode_search","query":{"query":"data custody migrate files"},"results":149,"truncated":false,"durationMs":59,"error":null}
+{"at":"2026-09-03T20:49:00.795Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/npm-workspace-publication-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-03T20:49:00.797Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/data-custody-directory-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-03T20:52:13.582Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-03T20:52:18.653Z","tool":"jsnode_query","query":{"limit":5},"results":1195,"truncated":true,"durationMs":7,"error":null}
+{"at":"2026-09-03T21:07:55.015Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":13,"error":null}
+{"at":"2026-09-03T21:07:56.536Z","tool":"jsnode_query","query":{"limit":5},"results":1195,"truncated":true,"durationMs":2,"error":null}
+{"at":"2026-09-03T21:08:11.160Z","tool":"jsnode_duplication","query":{"minimumBytes":1},"results":1,"truncated":false,"durationMs":13,"error":null}
+{"at":"2026-09-03T21:08:12.739Z","tool":"jsnode_query","query":{"limit":5},"results":1195,"truncated":true,"durationMs":2,"error":null}
+{"at":"2026-09-03T21:47:38.158Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-record-journal-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-03T23:34:12.756Z","tool":"jsnode_search","query":{"query":"fabrication"},"results":19,"truncated":false,"durationMs":67,"error":null}
+{"at":"2026-09-03T23:34:17.271Z","tool":"jsnode_search","query":{"query":"deterministic-intent-admission-service"},"results":1,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-03T23:34:17.306Z","tool":"jsnode_search","query":{"query":"write-capability-assay-service"},"results":1,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-03T23:34:17.478Z","tool":"jsnode_search","query":{"query":"tensor-circuit-board-synthesis-service"},"results":1,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-03T23:34:17.944Z","tool":"jsnode_search","query":{"query":"recursive-observation-circuit-synthesis"},"results":1,"truncated":false,"durationMs":21,"error":null}
+{"at":"2026-09-03T23:34:17.966Z","tool":"jsnode_search","query":{"query":"improvement-game-design-supplier"},"results":1,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-03T23:34:30.920Z","tool":"jsnode_search","query":{"query":"agent-harness-computer-system-engineering-services-section"},"results":1,"truncated":false,"durationMs":21,"error":null}
+{"at":"2026-09-03T23:34:31.302Z","tool":"jsnode_search","query":{"query":"bare-cedar-fog-claude-services-section"},"results":1,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-03T23:34:31.331Z","tool":"jsnode_search","query":{"query":"metroplat work"},"results":87,"truncated":false,"durationMs":77,"error":null}
+{"at":"2026-09-03T23:37:48.265Z","tool":"jsnode_search","query":{"query":"node-runtime-release-materialization"},"results":1,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-03T23:37:52.986Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/node-runtime-release-materialization-service"},"results":1,"truncated":false,"durationMs":1,"error":null}

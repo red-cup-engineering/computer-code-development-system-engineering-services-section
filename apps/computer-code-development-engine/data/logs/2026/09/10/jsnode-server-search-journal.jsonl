@@ -1,0 +1,413 @@
+{"at":"2026-09-10T00:23:16.639Z","tool":"jsnode_context","query":{"prompt":"Map the current web engine/server/client/platform/application family, emphasizing FeltOS, TUFTE, FAE, L-Space, public Web/ActivityPub endpoints, their package owners, declared consumers, and dependency edges.","limit":30,"maxBytes":18000},"results":1,"truncated":false,"durationMs":377,"error":null}
+{"at":"2026-09-10T00:23:17.019Z","tool":"jsnode_search","query":{"query":"semantic record journal SEAVT","limit":20,"detail":false},"results":159,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-10T00:23:17.080Z","tool":"jsnode_search","query":{"query":"FeltOS","limit":12,"detail":false},"results":6,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-10T00:23:17.126Z","tool":"jsnode_search","query":{"query":"SignCell SignGraph SignChain SignCraft","limit":20,"detail":false},"results":2,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-10T00:23:17.166Z","tool":"jsnode_search","query":{"query":"MetroPlat structured work dispatch founder direction","limit":20,"detail":false},"results":137,"truncated":false,"durationMs":40,"error":null}
+{"at":"2026-09-10T00:23:29.808Z","tool":"jsnode_search","query":{"query":"organizing","limit":10,"detail":false},"results":3,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-10T00:23:29.871Z","tool":"jsnode_search","query":{"query":"CAIRN","limit":10,"detail":false},"results":3,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-10T00:23:29.933Z","tool":"jsnode_search","query":{"query":"SignCraft","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-10T00:23:30.027Z","tool":"jsnode_search","query":{"query":"MetroPlat","limit":10,"detail":false},"results":4,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T00:23:30.092Z","tool":"jsnode_search","query":{"query":"computer code engine","limit":10,"detail":false},"results":6,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-10T00:23:30.169Z","tool":"jsnode_search","query":{"query":"TUFTE","limit":10,"detail":false},"results":9,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T00:23:30.235Z","tool":"jsnode_search","query":{"query":"GEODE","limit":10,"detail":false},"results":2,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-10T00:23:30.294Z","tool":"jsnode_search","query":{"query":"computing","limit":10,"detail":false},"results":19,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-10T00:23:30.359Z","tool":"jsnode_search","query":{"query":"MARSH","limit":10,"detail":false},"results":0,"truncated":false,"durationMs":22,"error":null}
+{"at":"2026-09-10T00:23:30.417Z","tool":"jsnode_search","query":{"query":"computer networking engine","limit":10,"detail":false},"results":2,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T00:23:30.481Z","tool":"jsnode_search","query":{"query":"computer data engine","limit":10,"detail":false},"results":15,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T00:23:30.547Z","tool":"jsnode_search","query":{"query":"L-Space","limit":10,"detail":false},"results":26,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T00:23:30.609Z","tool":"jsnode_search","query":{"query":"FeltOS","limit":10,"detail":false},"results":6,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-10T00:23:30.669Z","tool":"jsnode_search","query":{"query":"FAE","limit":10,"detail":false},"results":2,"truncated":false,"durationMs":22,"error":null}
+{"at":"2026-09-10T00:23:30.735Z","tool":"jsnode_search","query":{"query":"SignCell","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":22,"error":null}
+{"at":"2026-09-10T00:23:30.807Z","tool":"jsnode_search","query":{"query":"communicating","limit":10,"detail":false},"results":9,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T00:23:30.911Z","tool":"jsnode_search","query":{"query":"SignChain","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":28,"error":null}
+{"at":"2026-09-10T00:23:30.993Z","tool":"jsnode_search","query":{"query":"SignGraph","limit":10,"detail":false},"results":0,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-10T00:23:42.090Z","tool":"jsnode_search","query":{"query":"SignCell","limit":5,"detail":true},"results":1,"truncated":false,"durationMs":71,"error":null}
+{"at":"2026-09-10T00:23:42.168Z","tool":"jsnode_search","query":{"query":"SignGraph","limit":5,"detail":true},"results":0,"truncated":false,"durationMs":91,"error":null}
+{"at":"2026-09-10T00:23:42.268Z","tool":"jsnode_search","query":{"query":"SignChain","limit":5,"detail":true},"results":1,"truncated":false,"durationMs":73,"error":null}
+{"at":"2026-09-10T00:23:42.346Z","tool":"jsnode_search","query":{"query":"SignCraft","limit":5,"detail":true},"results":1,"truncated":false,"durationMs":73,"error":null}
+{"at":"2026-09-10T00:23:42.427Z","tool":"jsnode_search","query":{"query":"CAIRN","limit":5,"detail":true},"results":3,"truncated":false,"durationMs":74,"error":null}
+{"at":"2026-09-10T00:23:42.506Z","tool":"jsnode_search","query":{"query":"MARSH","limit":5,"detail":true},"results":0,"truncated":false,"durationMs":73,"error":null}
+{"at":"2026-09-10T00:23:42.587Z","tool":"jsnode_search","query":{"query":"GEODE","limit":5,"detail":true},"results":2,"truncated":false,"durationMs":78,"error":null}
+{"at":"2026-09-10T00:23:42.671Z","tool":"jsnode_search","query":{"query":"MetroPlat","limit":5,"detail":true},"results":4,"truncated":false,"durationMs":70,"error":null}
+{"at":"2026-09-10T00:23:42.751Z","tool":"jsnode_search","query":{"query":"computer-networking-engine","limit":5,"detail":true},"results":2,"truncated":false,"durationMs":82,"error":null}
+{"at":"2026-09-10T00:23:42.840Z","tool":"jsnode_search","query":{"query":"computer-data-engine","limit":5,"detail":true},"results":15,"truncated":false,"durationMs":138,"error":null}
+{"at":"2026-09-10T00:23:42.991Z","tool":"jsnode_search","query":{"query":"computer-code-engine","limit":5,"detail":true},"results":6,"truncated":false,"durationMs":124,"error":null}
+{"at":"2026-09-10T00:23:43.122Z","tool":"jsnode_search","query":{"query":"semantic-record","limit":5,"detail":true},"results":4,"truncated":false,"durationMs":61,"error":null}
+{"at":"2026-09-10T00:24:42.402Z","tool":"jsnode_duplication","query":{"scope":"feltos","limit":12,"minimumBytes":80},"results":110,"truncated":true,"durationMs":5644,"error":null}
+{"at":"2026-09-10T00:24:48.367Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-10T00:24:48.388Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-craft"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T00:24:48.394Z","tool":"jsnode_duplication","query":{"scope":"metroplat","limit":12,"minimumBytes":80},"results":234,"truncated":true,"durationMs":5097,"error":null}
+{"at":"2026-09-10T00:24:53.990Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-chain"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T00:24:53.995Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-graph"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T00:33:05.868Z","tool":"jsnode_term","query":{"name":"weiqi"},"results":1,"truncated":false,"durationMs":8957,"error":null}
+{"at":"2026-09-10T00:33:14.829Z","tool":"jsnode_search","query":{"query":"weiqi","limit":20,"detail":true},"results":8,"truncated":false,"durationMs":87,"error":null}
+{"at":"2026-09-10T00:33:14.918Z","tool":"jsnode_term","query":{"name":"baduk"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-10T00:33:14.979Z","tool":"jsnode_term","query":{"name":"smart game format"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T00:33:17.362Z","tool":"jsnode_search","query":{"query":"weiqi","limit":20,"detail":true},"results":8,"truncated":false,"durationMs":133,"error":null}
+{"at":"2026-09-10T00:33:17.704Z","tool":"jsnode_context","query":{"prompt":"WeiQi platform typed actor resource message channel serialization protocol information/control plane","limit":30,"maxBytes":18000},"results":1,"truncated":false,"durationMs":1117,"error":null}
+{"at":"2026-09-10T00:33:38.466Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":10,"error":null}
+{"at":"2026-09-10T00:33:38.485Z","tool":"jsnode_term","query":{"name":"Weiqi"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-10T00:33:38.498Z","tool":"jsnode_duplication","query":{"scope":"weiqi","minimumBytes":32,"limit":20},"results":27,"truncated":true,"durationMs":1714,"error":null}
+{"at":"2026-09-10T00:33:40.214Z","tool":"jsnode_package","query":{"name":"@lenticule-science/weiqi-web"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T00:33:40.220Z","tool":"jsnode_package","query":{"name":"@lenticule-science/weiqi-lsp"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T00:33:40.223Z","tool":"jsnode_search","query":{"query":"game engine","limit":10,"detail":true},"results":22,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-10T00:33:40.262Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/go-engine-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T00:35:00.441Z","tool":"jsnode_context","query":{"focus":"weiqi","prompt":"Identify packages, exports, consumers, protocol and serialization boundaries for the Weiqi platform.","limit":30,"maxBytes":20000},"results":1,"truncated":false,"durationMs":143,"error":null}
+{"at":"2026-09-10T00:35:00.585Z","tool":"jsnode_typeflow","query":{},"results":1,"truncated":false,"durationMs":2825,"error":null}
+{"at":"2026-09-10T00:35:03.418Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T00:36:55.080Z","tool":"jsnode_search","query":{"query":"workspace context query","limit":20,"detail":true},"results":37,"truncated":false,"durationMs":43,"error":null}
+{"at":"2026-09-10T00:36:55.131Z","tool":"jsnode_search","query":{"query":"game session","limit":20,"detail":true},"results":1,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-10T00:36:55.158Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence-services-section"},"results":0,"truncated":false,"durationMs":14,"error":"package not found: @red-cup-engineering/game-presence-services-section"}
+{"at":"2026-09-10T00:58:34.627Z","tool":"jsnode_search","query":{"query":"public release","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-10T00:58:34.708Z","tool":"jsnode_search","query":{"query":"release verification","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-10T00:58:34.809Z","tool":"jsnode_search","query":{"query":"cloudflare deploy","limit":10,"detail":false},"results":8,"truncated":false,"durationMs":40,"error":null}
+{"at":"2026-09-10T00:58:37.858Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/web-release-candidate-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T00:58:39.260Z","tool":"jsnode_search","query":{"query":"principal identity account credential","limit":20,"detail":true},"results":140,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-10T00:58:39.307Z","tool":"jsnode_search","query":{"query":"game match session","limit":30,"detail":true},"results":80,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-10T00:58:39.352Z","tool":"jsnode_search","query":{"query":"correspondence game","limit":20,"detail":true},"results":52,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-10T00:58:39.390Z","tool":"jsnode_search","query":{"query":"rating ranking","limit":20,"detail":true},"results":12,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-10T00:58:39.427Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T00:58:39.430Z","tool":"jsnode_search","query":{"query":"SGF","limit":20,"detail":true},"results":2,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-10T00:58:39.459Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T00:58:39.463Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T00:58:39.467Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/go-engine-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T00:58:52.662Z","tool":"jsnode_search","query":{"query":"rating","limit":20,"detail":true},"results":8,"truncated":false,"durationMs":90,"error":null}
+{"at":"2026-09-10T00:58:52.840Z","tool":"jsnode_search","query":{"query":"OAuth principal admission","limit":10,"detail":true},"results":2,"truncated":false,"durationMs":97,"error":null}
+{"at":"2026-09-10T00:58:52.976Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T00:58:53.004Z","tool":"jsnode_search","query":{"query":"principal office seating","limit":10,"detail":true},"results":2,"truncated":false,"durationMs":75,"error":null}
+{"at":"2026-09-10T00:58:53.183Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/energy-bank"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T00:58:53.193Z","tool":"jsnode_search","query":{"query":"sgf","limit":20,"detail":true},"results":2,"truncated":false,"durationMs":169,"error":null}
+{"at":"2026-09-10T00:58:53.372Z","tool":"jsnode_search","query":{"query":"match","limit":20,"detail":true},"results":18,"truncated":false,"durationMs":250,"error":null}
+{"at":"2026-09-10T00:58:53.654Z","tool":"jsnode_search","query":{"query":"correspondence","limit":20,"detail":true},"results":1,"truncated":false,"durationMs":119,"error":null}
+{"at":"2026-09-10T01:09:49.285Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T01:09:52.098Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/web-release-candidate-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T01:41:39.971Z","tool":"jsnode_term","query":{"name":"Weiqi"},"results":1,"truncated":false,"durationMs":11909,"error":null}
+{"at":"2026-09-10T01:41:56.225Z","tool":"jsnode_search","query":{"query":"weiqi"},"results":8,"truncated":false,"durationMs":96,"error":null}
+{"at":"2026-09-10T01:42:00.621Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T01:42:00.730Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/go-engine-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T01:42:01.068Z","tool":"jsnode_context","query":{"prompt":"Weiqi / Go / Baduk platform: packages, apps, exports, dependencies, consumers, commands. Identify engine, server, client, web, operations and public service carriers.","limit":60,"maxBytes":24000},"results":1,"truncated":false,"durationMs":1650,"error":null}
+{"at":"2026-09-10T01:42:02.724Z","tool":"jsnode_duplication","query":{"scope":"weiqi","limit":25,"minimumBytes":48},"results":16,"truncated":false,"durationMs":803,"error":null}
+{"at":"2026-09-10T02:00:30.732Z","tool":"jsnode_search","query":{"query":"public release candidate","limit":10,"detail":true},"results":161,"truncated":false,"durationMs":45,"error":null}
+{"at":"2026-09-10T02:00:30.780Z","tool":"jsnode_search","query":{"query":"match service","limit":20,"detail":false},"results":2,"truncated":false,"durationMs":74,"error":null}
+{"at":"2026-09-10T02:00:30.861Z","tool":"jsnode_search","query":{"query":"real-time game","limit":20,"detail":false},"results":5,"truncated":false,"durationMs":86,"error":null}
+{"at":"2026-09-10T02:00:30.955Z","tool":"jsnode_search","query":{"query":"weiqi","limit":20,"detail":false},"results":6,"truncated":false,"durationMs":91,"error":null}
+{"at":"2026-09-10T02:00:37.319Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/web-release-candidate-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T02:00:45.532Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/qwzspace"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:00:45.539Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:00:45.543Z","tool":"jsnode_types","query":{"match":"Game"},"results":5,"truncated":false,"durationMs":2033,"error":null}
+{"at":"2026-09-10T02:00:47.579Z","tool":"jsnode_functions","query":{"taking":"Move"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:11:35.884Z","tool":"jsnode_search","query":{"query":"Durable Object","limit":10,"detail":true},"results":29,"truncated":false,"durationMs":83,"error":null}
+{"at":"2026-09-10T02:11:38.814Z","tool":"jsnode_term","query":{"name":"Actor"},"results":1,"truncated":false,"durationMs":5689,"error":null}
+{"at":"2026-09-10T02:11:47.470Z","tool":"jsnode_term","query":{"name":"Resource"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-10T02:11:47.479Z","tool":"jsnode_term","query":{"name":"Message"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T02:11:47.488Z","tool":"jsnode_term","query":{"name":"Channel"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-10T02:11:47.497Z","tool":"jsnode_term","query":{"name":"event log"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T02:11:47.505Z","tool":"jsnode_term","query":{"name":"durable event"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T02:11:47.513Z","tool":"jsnode_term","query":{"name":"engine execution"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T02:11:51.832Z","tool":"jsnode_search","query":{"query":"qwzspace","limit":10,"detail":true},"results":6,"truncated":false,"durationMs":76,"error":null}
+{"at":"2026-09-10T02:11:51.917Z","tool":"jsnode_search","query":{"query":"cartridge","limit":10,"detail":true},"results":10,"truncated":false,"durationMs":81,"error":null}
+{"at":"2026-09-10T02:11:52.005Z","tool":"jsnode_search","query":{"query":"actor resource message channel","limit":20,"detail":false},"results":92,"truncated":false,"durationMs":77,"error":null}
+{"at":"2026-09-10T02:11:52.091Z","tool":"jsnode_search","query":{"query":"eavt","limit":10,"detail":true},"results":33,"truncated":false,"durationMs":76,"error":null}
+{"at":"2026-09-10T02:11:52.178Z","tool":"jsnode_term","query":{"name":"Resource","includeLegacy":false},"results":1,"truncated":false,"durationMs":19,"error":null}
+{"at":"2026-09-10T02:11:52.205Z","tool":"jsnode_term","query":{"name":"Actor","includeLegacy":false},"results":1,"truncated":false,"durationMs":11,"error":null}
+{"at":"2026-09-10T02:11:52.226Z","tool":"jsnode_term","query":{"name":"Message","includeLegacy":false},"results":1,"truncated":false,"durationMs":11,"error":null}
+{"at":"2026-09-10T02:11:52.243Z","tool":"jsnode_term","query":{"name":"Channel","includeLegacy":false},"results":1,"truncated":false,"durationMs":14,"error":null}
+{"at":"2026-09-10T02:11:57.494Z","tool":"jsnode_search","query":{"query":"cartridge","limit":10,"detail":false},"results":10,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-10T02:11:57.555Z","tool":"jsnode_search","query":{"query":"event stream data","limit":10,"detail":false},"results":4,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-10T02:11:57.603Z","tool":"jsnode_search","query":{"query":"actor","limit":10,"detail":false},"results":25,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T02:11:57.635Z","tool":"jsnode_search","query":{"query":"message","limit":10,"detail":false},"results":8,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-10T02:11:57.685Z","tool":"jsnode_search","query":{"query":"channel","limit":10,"detail":false},"results":17,"truncated":false,"durationMs":59,"error":null}
+{"at":"2026-09-10T02:11:57.751Z","tool":"jsnode_search","query":{"query":"intent log","limit":10,"detail":false},"results":9,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-10T02:11:57.808Z","tool":"jsnode_search","query":{"query":"content address","limit":10,"detail":false},"results":23,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-10T02:11:57.845Z","tool":"jsnode_search","query":{"query":"engine execution","limit":10,"detail":false},"results":11,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T02:11:58.979Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T02:11:58.992Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/qwzspace"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:11:59.024Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:11:59.032Z","tool":"jsnode_search","query":{"query":"content addressed eavt","limit":20,"detail":true},"results":112,"truncated":false,"durationMs":88,"error":null}
+{"at":"2026-09-10T02:12:00.102Z","tool":"jsnode_search","query":{"query":"identity content addressing EAVT","limit":10,"detail":false},"results":130,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-10T02:12:00.180Z","tool":"jsnode_search","query":{"query":"CBOR NI content addressing","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-10T02:12:00.235Z","tool":"jsnode_context","query":{"prompt":"Trace the real non-Web-app consumer path for the Weiqi platform and its primitive dependencies. Return exact packages, imports/dependency edges, persistence or exchange formats, and package paths. Focus on server/engine boundaries; exclude apps/weiqi-web.","limit":20,"maxBytes":16000},"results":1,"truncated":false,"durationMs":257,"error":null}
+{"at":"2026-09-10T02:12:00.529Z","tool":"jsnode_search","query":{"query":"message channel event agent exchange","limit":10,"detail":false},"results":116,"truncated":false,"durationMs":21,"error":null}
+{"at":"2026-09-10T02:12:01.264Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:12:01.268Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/event-stream-data-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:12:01.273Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/qwzspace"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:12:29.453Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T02:12:33.919Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:12:33.921Z","tool":"jsnode_duplication","query":{"scope":"computer-game-system-services-section","minimumBytes":48,"limit":30},"results":51,"truncated":true,"durationMs":879,"error":null}
+{"at":"2026-09-10T02:12:34.833Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:12:34.840Z","tool":"jsnode_search","query":{"query":"derive cbor ni","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-10T02:12:34.874Z","tool":"jsnode_search","query":{"query":"principal identity capability","limit":10,"detail":true},"results":79,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-10T02:12:58.301Z","tool":"jsnode_search","query":{"query":"canonical JSON hash","limit":10,"detail":false},"results":108,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-10T02:12:58.331Z","tool":"jsnode_search","query":{"query":"resource name addressing","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T02:12:58.360Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cbor-ni-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:12:58.364Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:12:58.367Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-message-journal-projection-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:12:58.370Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semiotic-resource-name-addressing-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:16:38.004Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T02:23:53.715Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/qwzspace"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T02:34:24.484Z","tool":"jsnode_term","query":{"name":"SEAVT"},"results":1,"truncated":false,"durationMs":10471,"error":null}
+{"at":"2026-09-10T02:34:34.972Z","tool":"jsnode_term","query":{"name":"RMN"},"results":1,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-10T02:34:35.006Z","tool":"jsnode_term","query":{"name":"SignCell"},"results":1,"truncated":false,"durationMs":16,"error":null}
+{"at":"2026-09-10T02:34:35.038Z","tool":"jsnode_term","query":{"name":"SignChain"},"results":1,"truncated":false,"durationMs":18,"error":null}
+{"at":"2026-09-10T02:34:35.069Z","tool":"jsnode_term","query":{"name":"SignCraft"},"results":1,"truncated":false,"durationMs":15,"error":null}
+{"at":"2026-09-10T02:34:35.094Z","tool":"jsnode_term","query":{"name":"SignGraph"},"results":1,"truncated":false,"durationMs":14,"error":null}
+{"at":"2026-09-10T02:34:35.111Z","tool":"jsnode_search","query":{"query":"SEAVT","limit":20,"detail":true},"results":5,"truncated":false,"durationMs":94,"error":null}
+{"at":"2026-09-10T02:34:35.217Z","tool":"jsnode_term","query":{"name":"FeltOS"},"results":1,"truncated":false,"durationMs":12,"error":null}
+{"at":"2026-09-10T02:34:35.245Z","tool":"jsnode_term","query":{"name":"TUFTE"},"results":1,"truncated":false,"durationMs":19,"error":null}
+{"at":"2026-09-10T02:34:35.387Z","tool":"jsnode_search","query":{"query":"semantic record","limit":20,"detail":true},"results":4,"truncated":false,"durationMs":132,"error":null}
+{"at":"2026-09-10T02:34:35.860Z","tool":"jsnode_search","query":{"query":"EAVT","limit":20,"detail":true},"results":33,"truncated":false,"durationMs":196,"error":null}
+{"at":"2026-09-10T02:34:36.059Z","tool":"jsnode_search","query":{"query":"computer data networking code engine","limit":30,"detail":false},"results":1085,"truncated":false,"durationMs":270,"error":null}
+{"at":"2026-09-10T02:34:36.795Z","tool":"jsnode_search","query":{"query":"FeltOS","limit":10,"detail":false},"results":6,"truncated":false,"durationMs":92,"error":null}
+{"at":"2026-09-10T02:34:37.302Z","tool":"jsnode_search","query":{"query":"semantic record EAVT SEAVT","limit":20,"detail":false},"results":156,"truncated":false,"durationMs":147,"error":null}
+{"at":"2026-09-10T02:34:37.865Z","tool":"jsnode_search","query":{"query":"SignCell SignChain SignGraph SignCraft","limit":20,"detail":false},"results":2,"truncated":false,"durationMs":91,"error":null}
+{"at":"2026-09-10T02:34:52.081Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-graph"},"results":1,"truncated":false,"durationMs":12,"error":null}
+{"at":"2026-09-10T02:34:52.108Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T02:34:52.162Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-record-journal-service"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T02:34:52.181Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fae"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:34:52.194Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/metroplat"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:34:52.240Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/geode"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:34:52.256Z","tool":"jsnode_package","query":{"name":"@lenticule-science/l-space"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:37:12.077Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-record-journal-service"},"results":1,"truncated":false,"durationMs":13,"error":null}
+{"at":"2026-09-10T02:37:12.183Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/metroplat"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:37:12.206Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fae"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:37:12.235Z","tool":"jsnode_package","query":{"name":"@lenticule-science/l-space"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:37:12.252Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-cell"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:37:12.266Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-chain"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:37:12.285Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-craft"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:37:12.303Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/geode"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:37:12.323Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-graph"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:39:28.010Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/witness-journal-log-service"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T02:39:28.116Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/witness-journal-entry-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:39:28.131Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-record-journal-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T02:55:42.029Z","tool":"jsnode_search","query":{"query":"userspace SOCKS relay","limit":5,"detail":true},"results":1,"truncated":false,"durationMs":51,"error":null}
+{"at":"2026-09-10T02:55:42.103Z","tool":"jsnode_section","query":{"query":"machine service deployment","limit":8},"results":1,"truncated":false,"durationMs":2232,"error":null}
+{"at":"2026-09-10T03:06:34.467Z","tool":"jsnode_term","query":{"name":"SignChain"},"results":1,"truncated":false,"durationMs":5934,"error":null}
+{"at":"2026-09-10T03:06:40.405Z","tool":"jsnode_term","query":{"name":"SignCell"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T03:06:40.413Z","tool":"jsnode_term","query":{"name":"RMN"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T03:06:40.422Z","tool":"jsnode_term","query":{"name":"SignGraph"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T03:06:40.431Z","tool":"jsnode_term","query":{"name":"SignCraft"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-10T03:06:40.523Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-graph"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T03:06:40.556Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-cell"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T03:06:40.586Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-craft"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T03:06:46.200Z","tool":"jsnode_context","query":{"prompt":"Find the exact current @red-cup-engineering/metroplat source imports and call sites that use @red-cup-engineering/sign-cell or @red-cup-engineering/sign-graph. Return paths, exported operations, and what receiver tests establish.","limit":20,"maxBytes":16000},"results":1,"truncated":false,"durationMs":622,"error":null}
+{"at":"2026-09-10T03:06:46.879Z","tool":"jsnode_context","query":{"prompt":"Find exact source contracts and exported types/functions for @red-cup-engineering/sign-cell and @red-cup-engineering/sign-graph: admission invariants, identity, edge witness/endpoint/predicate conditions, immutable/replay/merge behavior. Return paths.","limit":30,"maxBytes":20000},"results":1,"truncated":false,"durationMs":635,"error":null}
+{"at":"2026-09-10T03:06:47.519Z","tool":"jsnode_context","query":{"prompt":"Find SEAVT and RMN consumer or producer source: canonical RMN term admission/typing and semantic record journal migration. Return paths and current behavior, especially semantic-record-content.jsonl and semantic-record-seavt-claims.jsonl.","limit":30,"maxBytes":20000},"results":1,"truncated":false,"durationMs":195,"error":null}
+{"at":"2026-09-10T03:06:47.817Z","tool":"jsnode_context","query":{"prompt":"Identify exact packages, exported contracts, direct consumers, and duplicate semantic mechanisms involved in computer-data-engine, eavt, semantic-record-journal-service, sign-cell, sign-graph, sign-chain, sign-craft, FeltOS, MetroPlat, L-Space, TUFTE, GEODE, CAIRN, and FAE. Prioritize canonical owner and real migration evidence.","limit":40,"maxBytes":30000},"results":1,"truncated":false,"durationMs":531,"error":null}
+{"at":"2026-09-10T03:06:48.353Z","tool":"jsnode_duplication","query":{"scope":"sign","limit":20,"minimumBytes":48},"results":8,"truncated":false,"durationMs":405,"error":null}
+{"at":"2026-09-10T03:07:08.978Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fae"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T03:20:40.690Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-chain"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T03:20:40.717Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-craft"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T03:23:43.656Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-craft"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T03:23:43.662Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-chain"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T04:17:18.665Z","tool":"jsnode_section","query":{"query":"MARSH resource operation database evidence","limit":10},"results":1,"truncated":false,"durationMs":4342,"error":null}
+{"at":"2026-09-10T04:17:23.161Z","tool":"jsnode_search","query":{"query":"MARSH","limit":20,"detail":false},"results":0,"truncated":false,"durationMs":72,"error":null}
+{"at":"2026-09-10T04:17:42.858Z","tool":"jsnode_term","query":{"name":"MARSH"},"results":1,"truncated":false,"durationMs":18727,"error":null}
+{"at":"2026-09-10T04:28:55.649Z","tool":"jsnode_search","query":{"query":"duplicate consolidation","limit":20,"detail":true},"results":4,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-10T04:28:55.711Z","tool":"jsnode_search","query":{"query":"program transformation","limit":20,"detail":true},"results":51,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-10T04:28:55.749Z","tool":"jsnode_search","query":{"query":"codemod","limit":20,"detail":true},"results":0,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T04:28:59.745Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/derive-set-of-duplication-work-intents-service"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T04:32:01.861Z","tool":"jsnode_duplication","query":{"limit":20},"results":6465,"truncated":true,"durationMs":49176,"error":null}
+{"at":"2026-09-10T04:36:37.186Z","tool":"jsnode_search","query":{"query":"estree","limit":20,"detail":true},"results":0,"truncated":false,"durationMs":46,"error":null}
+{"at":"2026-09-10T04:36:37.241Z","tool":"jsnode_search","query":{"query":"javascript syntax parser AST","limit":20,"detail":true},"results":91,"truncated":false,"durationMs":116,"error":null}
+{"at":"2026-09-10T04:36:37.375Z","tool":"jsnode_section","query":{"query":"jsnode engineering"},"results":1,"truncated":false,"durationMs":3336,"error":null}
+{"at":"2026-09-10T04:36:40.731Z","tool":"jsnode_search","query":{"query":"code transformation codemod","limit":20,"detail":true},"results":101,"truncated":false,"durationMs":91,"error":null}
+{"at":"2026-09-10T04:36:40.838Z","tool":"jsnode_search","query":{"query":"jscodeshift","limit":20,"detail":true},"results":0,"truncated":false,"durationMs":88,"error":null}
+{"at":"2026-09-10T04:39:41.961Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-root-instructions-projection-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T04:41:02.814Z","tool":"jsnode_search","query":{"query":"computer code engine","limit":20,"detail":true},"results":6,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-10T04:41:02.899Z","tool":"jsnode_search","query":{"query":"computer data engine","limit":20,"detail":true},"results":15,"truncated":false,"durationMs":58,"error":null}
+{"at":"2026-09-10T04:41:02.962Z","tool":"jsnode_search","query":{"query":"computer networking engine","limit":20,"detail":true},"results":2,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-10T04:41:03.007Z","tool":"jsnode_search","query":{"query":"jsnode engineering","limit":20,"detail":true},"results":21,"truncated":false,"durationMs":50,"error":null}
+{"at":"2026-09-10T04:41:03.064Z","tool":"jsnode_search","query":{"query":"acorn","limit":50,"detail":true},"results":0,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-10T04:41:03.099Z","tool":"jsnode_search","query":{"query":"computer system engine","limit":20,"detail":true},"results":23,"truncated":false,"durationMs":90,"error":null}
+{"at":"2026-09-10T04:47:33.326Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/jsnode-engine","detail":true},"results":22,"truncated":false,"durationMs":48,"error":null}
+{"at":"2026-09-10T14:29:32.843Z","tool":"jsnode_search","query":{"query":"independent editorial assessment signed editorial grant Koios.News"},"results":103,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-10T14:29:35.774Z","tool":"jsnode_package","query":{"name":"@causeway-services/editorial-publication-authority"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T14:29:35.780Z","tool":"jsnode_package","query":{"name":"@causeway-services/independent-editorial-assessment"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:29:35.816Z","tool":"jsnode_package","query":{"name":"@causeway-services/editorial-admission-receipt"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:32:12.693Z","tool":"jsnode_search","query":{"query":"enterprise systematization","limit":10,"detail":false},"results":111,"truncated":false,"durationMs":71,"error":null}
+{"at":"2026-09-10T14:32:13.271Z","tool":"jsnode_context","query":{"prompt":"Identify current highest-leverage package topology and real consumer families for unified Actor Resource Thing Cell rule direction claim evidence effect receipt refusal, EAVT/MCP/A2A/ActivityPub, and WebSurface/PublicRelease/Web delivery. Return direct package dependencies/dependents and actual app/bin consumers.","limit":50,"maxBytes":18000},"results":1,"truncated":false,"durationMs":339,"error":null}
+{"at":"2026-09-10T14:32:13.808Z","tool":"jsnode_duplication","query":{"minimumBytes":80,"limit":30},"results":5015,"truncated":true,"durationMs":43159,"error":null}
+{"at":"2026-09-10T14:32:58.974Z","tool":"jsnode_atlas","query":{},"results":1414,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-10T14:33:04.393Z","tool":"jsnode_search","query":{"query":"WebSurfaceSpecification","limit":10,"detail":true},"results":0,"truncated":false,"durationMs":50,"error":null}
+{"at":"2026-09-10T14:33:04.450Z","tool":"jsnode_search","query":{"query":"PublicRelease","limit":10,"detail":true},"results":0,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-10T14:33:04.484Z","tool":"jsnode_search","query":{"query":"cloudflare static assets","limit":20,"detail":false},"results":39,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-10T14:33:09.446Z","tool":"jsnode_search","query":{"query":"WebSurface"},"results":0,"truncated":false,"durationMs":22,"error":null}
+{"at":"2026-09-10T14:33:09.472Z","tool":"jsnode_search","query":{"query":"PublicRelease"},"results":0,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-10T14:33:09.504Z","tool":"jsnode_search","query":{"query":"actor resource message channel"},"results":92,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-10T14:33:09.549Z","tool":"jsnode_search","query":{"query":"cloudflare static assets worker"},"results":46,"truncated":false,"durationMs":40,"error":null}
+{"at":"2026-09-10T14:33:09.626Z","tool":"jsnode_status","query":{},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T14:33:16.606Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-resource-catalog"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T14:33:16.612Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/frog"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:33:16.616Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:33:16.624Z","tool":"jsnode_search","query":{"query":"RMN envelope"},"results":1,"truncated":false,"durationMs":32,"error":null}
+{"at":"2026-09-10T14:33:16.661Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:33:16.665Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-content-identify-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T14:33:16.670Z","tool":"jsnode_search","query":{"query":"cloudflare-static-assets-worker"},"results":46,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-10T14:33:26.247Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relating"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T14:33:26.466Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T14:33:26.471Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/web-server-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:33:26.478Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relation-model-notation-runtime"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T14:33:26.484Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-data-type-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T14:33:26.490Z","tool":"jsnode_package","query":{"name":"@causeway-services/cloudflare-release-current"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:33:26.494Z","tool":"jsnode_search","query":{"query":"static asset worker"},"results":40,"truncated":false,"durationMs":41,"error":null}
+{"at":"2026-09-10T14:33:43.801Z","tool":"jsnode_duplication","query":{"scope":"cloudflare","minimumBytes":80,"limit":20},"results":14,"truncated":false,"durationMs":5921,"error":null}
+{"at":"2026-09-10T14:33:49.811Z","tool":"jsnode_search","query":{"query":"release manifest channel baseline"},"results":67,"truncated":false,"durationMs":98,"error":null}
+{"at":"2026-09-10T14:33:49.923Z","tool":"jsnode_search","query":{"query":"web server platform services section"},"results":1,"truncated":false,"durationMs":61,"error":null}
+{"at":"2026-09-10T14:33:50.000Z","tool":"jsnode_search","query":{"query":"project browser asset tree"},"results":1,"truncated":false,"durationMs":149,"error":null}
+{"at":"2026-09-10T15:07:02.294Z","tool":"jsnode_search","query":{"query":"Cell","limit":10,"detail":false},"results":44,"truncated":false,"durationMs":92,"error":null}
+{"at":"2026-09-10T15:07:02.397Z","tool":"jsnode_search","query":{"query":"RMN","limit":10,"detail":false},"results":38,"truncated":false,"durationMs":73,"error":null}
+{"at":"2026-09-10T15:07:02.476Z","tool":"jsnode_duplication","query":{"minimumBytes":48},"results":6474,"truncated":false,"durationMs":26199,"error":null}
+{"at":"2026-09-10T15:07:36.075Z","tool":"jsnode_search","query":{"query":"EAVT","limit":10,"detail":false},"results":33,"truncated":false,"durationMs":55,"error":null}
+{"at":"2026-09-10T15:07:47.709Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-content-identify-service"},"results":1,"truncated":false,"durationMs":7,"error":null}
+{"at":"2026-09-10T15:09:12.995Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/bare-cedar-fog-codex-services-section"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T15:14:47.922Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/ni-services-section"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T15:14:47.929Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relation-model-notation-json-codec"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T15:14:47.932Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cbor-codec-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T15:14:47.937Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relation-model-notation-runtime"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T15:14:47.943Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/json-byte-carrier-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T15:25:08.009Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/json-byte-carrier-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T15:25:15.840Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/json-byte-carrier-service","limit":1,"detail":true},"results":1,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T15:32:52.636Z","tool":"jsnode_section","query":{"query":"computer file engineering"},"results":1,"truncated":false,"durationMs":1204,"error":null}
+{"at":"2026-09-10T15:32:56.928Z","tool":"jsnode_term","query":{"name":"file"},"results":1,"truncated":false,"durationMs":8034,"error":null}
+{"at":"2026-09-10T15:47:48.692Z","tool":"jsnode_search","query":{"query":"DAG prerequisite tree path projection","limit":10,"detail":false},"results":143,"truncated":false,"durationMs":268,"error":null}
+{"at":"2026-09-10T15:47:49.071Z","tool":"jsnode_search","query":{"query":"file read write","limit":10,"detail":false},"results":5,"truncated":false,"durationMs":69,"error":null}
+{"at":"2026-09-10T15:47:49.205Z","tool":"jsnode_search","query":{"query":"relocator reference migration","limit":10,"detail":false},"results":26,"truncated":false,"durationMs":58,"error":null}
+{"at":"2026-09-10T15:47:49.336Z","tool":"jsnode_section","query":{"query":"DAG prerequisite tree path projection","limit":10},"results":1,"truncated":false,"durationMs":2821,"error":null}
+{"at":"2026-09-10T15:47:52.241Z","tool":"jsnode_section","query":{"query":"file read write","limit":10},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T15:47:52.316Z","tool":"jsnode_section","query":{"query":"relocator reference migration","limit":10},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T15:47:57.492Z","tool":"jsnode_search","query":{"query":"DAG prerequisite validation tree path projection","limit":10,"detail":false},"results":156,"truncated":false,"durationMs":65,"error":null}
+{"at":"2026-09-10T15:47:57.627Z","tool":"jsnode_search","query":{"query":"relocator reference migration","limit":10,"detail":false},"results":26,"truncated":false,"durationMs":33,"error":null}
+{"at":"2026-09-10T15:49:12.317Z","tool":"jsnode_search","query":{"query":"prerequisite validation","limit":20,"detail":false},"results":23,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-10T15:49:12.433Z","tool":"jsnode_search","query":{"query":"directory projection","limit":20,"detail":false},"results":2,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T15:49:12.500Z","tool":"jsnode_search","query":{"query":"path projection","limit":20,"detail":false},"results":7,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-10T15:49:21.432Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/scholarly-literature-services-section"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T15:49:21.474Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/bibliography-engineering-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T15:49:21.536Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/json-codec-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T15:49:21.591Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-knowledge-systems-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T15:49:50.680Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/relocate-markdown-tree-service","limit":3,"detail":false},"results":1,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-10T15:49:50.754Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/directory-services-section","limit":3,"detail":false},"results":3,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-10T15:49:50.839Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/file-services","limit":3,"detail":false},"results":17,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T15:49:50.904Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/flatfile","limit":3,"detail":false},"results":4,"truncated":false,"durationMs":25,"error":null}
+{"at":"2026-09-10T15:49:50.971Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/path-walking-service","limit":3,"detail":false},"results":1,"truncated":false,"durationMs":23,"error":null}
+{"at":"2026-09-10T15:49:51.031Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/path-prioritization-service","limit":3,"detail":false},"results":1,"truncated":false,"durationMs":22,"error":null}
+{"at":"2026-09-10T15:49:51.089Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/committing-git-paths-service","limit":3,"detail":false},"results":1,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-10T16:06:02.899Z","tool":"jsnode_search","query":{"query":"structured work intent","limit":5,"detail":false},"results":2,"truncated":false,"durationMs":32,"error":null}
+{"at":"2026-09-10T16:09:49.521Z","tool":"jsnode_term","query":{"name":"Directed Relation Entity Web"},"results":1,"truncated":false,"durationMs":4539,"error":null}
+{"at":"2026-09-10T16:09:55.297Z","tool":"jsnode_search","query":{"query":"structured work intent","limit":10,"detail":false},"results":2,"truncated":false,"durationMs":22,"error":null}
+{"at":"2026-09-10T16:09:59.232Z","tool":"jsnode_search","query":{"query":"drew","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":27,"error":null}
+{"at":"2026-09-10T16:10:00.030Z","tool":"jsnode_search","query":{"query":"founder direction","limit":10,"detail":false},"results":13,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T16:10:00.116Z","tool":"jsnode_search","query":{"query":"actor inbox","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":24,"error":null}
+{"at":"2026-09-10T16:10:00.177Z","tool":"jsnode_search","query":{"query":"work dispatch","limit":10,"detail":false},"results":4,"truncated":false,"durationMs":20,"error":null}
+{"at":"2026-09-10T16:10:01.635Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/drew"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T16:10:02.631Z","tool":"jsnode_package","query":{"name":"@561-group/561-group-board-of-directors-leader-movement-team"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T16:11:48.324Z","tool":"jsnode_search","query":{"query":"work execution","limit":10},"results":1,"truncated":false,"durationMs":28,"error":null}
+{"at":"2026-09-10T16:11:48.355Z","tool":"jsnode_search","query":{"query":"fabrication","limit":10},"results":24,"truncated":false,"durationMs":28,"error":null}
+{"at":"2026-09-10T16:13:02.626Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-work-computer-system-engineering-services-section"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T16:13:02.633Z","tool":"jsnode_fabrication_records","query":{"limit":12},"results":1,"truncated":false,"durationMs":3524,"error":null}
+{"at":"2026-09-10T16:15:41.797Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-work-computer-system-engineering-services-section"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T16:15:41.919Z","tool":"jsnode_fabrication_records","query":{"limit":100},"results":1,"truncated":false,"durationMs":634,"error":null}
+{"at":"2026-09-10T16:17:30.453Z","tool":"jsnode_search","query":{"query":"software mission execution","limit":5,"detail":true},"results":1,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-10T16:33:13.139Z","tool":"jsnode_context","query":{"prompt":"In this workspace, locate the implemented packages/modules for: (1) reading or modeling lib/agency data, especially the agent-computer-system; (2) Nunjucks template rendering; (3) Markdown carrier generation or projection; and (4) AGENTS.md/Codex instruction projection. For each, return exact package/path, exports or entry points, data input/output contracts, and real consumers. This is codebase discovery for composing existing components; do not suggest new architecture.","limit":14,"maxBytes":24000},"results":1,"truncated":false,"durationMs":660,"error":null}
+{"at":"2026-09-10T16:33:16.933Z","tool":"jsnode_search","query":{"query":"nunjucks","limit":12,"detail":true},"results":0,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-10T16:33:17.020Z","tool":"jsnode_search","query":{"query":"agency","limit":12,"detail":true},"results":3,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-10T16:33:17.102Z","tool":"jsnode_search","query":{"query":"agent harness","limit":12,"detail":true},"results":6,"truncated":false,"durationMs":28,"error":null}
+{"at":"2026-09-10T16:33:17.174Z","tool":"jsnode_search","query":{"query":"agent root instructions","limit":12,"detail":true},"results":1,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-10T16:33:17.262Z","tool":"jsnode_search","query":{"query":"markdown projection","limit":12,"detail":true},"results":4,"truncated":false,"durationMs":29,"error":null}
+{"at":"2026-09-10T16:33:23.743Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-root-instructions-projection-service"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-10T16:33:23.800Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-session-reading-projection-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T16:33:23.859Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-agent-skill-markdown-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T16:33:23.918Z","tool":"jsnode_package","query":{"name":"@lenticule-science/agency-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T16:45:14.572Z","tool":"jsnode_search","query":{"query":"L-Space","limit":10,"detail":true},"results":26,"truncated":false,"durationMs":54,"error":null}
+{"at":"2026-09-10T16:58:16.709Z","tool":"jsnode_duplication","query":{"scope":"l-space.561.group","minimumBytes":48,"limit":50},"results":4,"truncated":false,"durationMs":821,"error":null}
+{"at":"2026-09-10T16:58:17.559Z","tool":"jsnode_context","query":{"prompt":"For the L-Space site package and its immediate dependencies, identify package paths, declared dependencies, direct source-declared consumers, and any existing shared owner for static release compilation, Node Worker/VPS adaptation, asset serving, or D1-compatible state.","focus":"science-services-section/sites/l-space.561.group","maxBytes":18000,"limit":20},"results":1,"truncated":false,"durationMs":470,"error":null}
+{"at":"2026-09-10T16:59:47.033Z","tool":"jsnode_duplication_migration","query":{"scope":"l-space.561.group","rank":1,"minimumBytes":48},"results":0,"truncated":false,"durationMs":6839,"error":"only 0 cross-package consumer-backed duplication candidate(s); no rank 1"}
+{"at":"2026-09-10T17:01:16.252Z","tool":"jsnode_duplication_migration","query":{"scope":"l-space.561.group","fingerprint":"ef4cbb7b340ad48d25fc3fe9089242d57aba6495cc6b4a49d525ea17c7df05e8","minimumBytes":48,"owner":"@lenticule-science/l-space"},"results":1,"truncated":false,"durationMs":815,"error":null}
+{"at":"2026-09-10T17:01:17.094Z","tool":"jsnode_duplication_migration","query":{"scope":"l-space.561.group","fingerprint":"66cbdfae27f114d0dc12e96bcdf045e450a4048928446363a33412a40d0f943b","minimumBytes":48,"owner":"@lenticule-science/l-space"},"results":1,"truncated":false,"durationMs":759,"error":null}
+{"at":"2026-09-10T17:01:17.858Z","tool":"jsnode_duplication_migration","query":{"scope":"l-space.561.group","fingerprint":"10dd8a649b22bc42712cc9bb6392091189287fd0028f1d25a377eb66a8360463","minimumBytes":48,"owner":"@lenticule-science/l-space"},"results":1,"truncated":false,"durationMs":779,"error":null}
+{"at":"2026-09-10T17:10:16.126Z","tool":"jsnode_search","query":{"query":"computer data engine","limit":10,"detail":false},"results":13,"truncated":false,"durationMs":48,"error":null}
+{"at":"2026-09-10T17:10:16.265Z","tool":"jsnode_search","query":{"query":"service section conformance","limit":10,"detail":false},"results":3,"truncated":false,"durationMs":38,"error":null}
+{"at":"2026-09-10T17:10:16.358Z","tool":"jsnode_search","query":{"query":"git worktree transaction","limit":10,"detail":false},"results":46,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-10T17:10:16.451Z","tool":"jsnode_duplication","query":{"scope":"computer-data","limit":10,"minimumBytes":80},"results":93,"truncated":true,"durationMs":3246,"error":null}
+{"at":"2026-09-10T17:10:19.794Z","tool":"jsnode_search","query":{"query":"jsnode engineering codemod","limit":10,"detail":false},"results":1050,"truncated":false,"durationMs":60,"error":null}
+{"at":"2026-09-10T17:10:23.327Z","tool":"jsnode_search","query":{"query":"computer data engine","limit":20,"detail":true},"results":13,"truncated":false,"durationMs":38,"error":null}
+{"at":"2026-09-10T17:10:23.442Z","tool":"jsnode_search","query":{"query":"architecture conformance","limit":20,"detail":false},"results":16,"truncated":false,"durationMs":47,"error":null}
+{"at":"2026-09-10T17:10:23.567Z","tool":"jsnode_search","query":{"query":"file engine","limit":20,"detail":true},"results":61,"truncated":false,"durationMs":53,"error":null}
+{"at":"2026-09-10T17:10:23.696Z","tool":"jsnode_term","query":{"name":"Yoneda"},"results":1,"truncated":false,"durationMs":8184,"error":null}
+{"at":"2026-09-10T17:10:31.964Z","tool":"jsnode_term","query":{"name":"Directed Relation Entity Web"},"results":1,"truncated":false,"durationMs":9,"error":null}
+{"at":"2026-09-10T17:10:32.028Z","tool":"jsnode_term","query":{"name":"Curry Howard Lambek"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T17:10:46.599Z","tool":"jsnode_search","query":{"query":"flatfile","limit":4,"detail":true},"results":12,"truncated":false,"durationMs":47,"error":null}
+{"at":"2026-09-10T17:10:46.649Z","tool":"jsnode_section","query":{"query":"computer data"},"results":1,"truncated":false,"durationMs":2512,"error":null}
+{"at":"2026-09-10T17:10:49.163Z","tool":"jsnode_search","query":{"query":"services section form","limit":8,"detail":true},"results":20,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-10T17:10:49.201Z","tool":"jsnode_section","query":{"query":"relation model notation"},"results":1,"truncated":false,"durationMs":6,"error":null}
+{"at":"2026-09-10T17:10:49.210Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/jsnode-engineering-cli"},"results":1,"truncated":false,"durationMs":10,"error":null}
+{"at":"2026-09-10T17:10:49.226Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/jsnode-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:10:49.233Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/services-section-form-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:10:49.240Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:10:49.248Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-data-type-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:10:54.508Z","tool":"jsnode_search","query":{"query":"import stratification","limit":5,"detail":true},"results":23,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-10T17:10:54.542Z","tool":"jsnode_search","query":{"query":"jsnode topology","limit":5,"detail":true},"results":1,"truncated":false,"durationMs":30,"error":null}
+{"at":"2026-09-10T17:10:54.577Z","tool":"jsnode_search","query":{"query":"service section form topology","limit":5,"detail":true},"results":1224,"truncated":false,"durationMs":32,"error":null}
+{"at":"2026-09-10T17:10:59.803Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/flatfile"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T17:10:59.810Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/services-section-form-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:10:59.817Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/read-scripts-conformance-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:10:59.934Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relation-model-notation-conformance"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:11:12.911Z","tool":"jsnode_search","query":{"query":"directory relocation","limit":10,"detail":false},"results":29,"truncated":false,"durationMs":47,"error":null}
+{"at":"2026-09-10T17:11:12.965Z","tool":"jsnode_search","query":{"query":"source module specifier rewrite","limit":10,"detail":false},"results":126,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-10T17:11:13.004Z","tool":"jsnode_search","query":{"query":"import dependency direction audit","limit":10,"detail":false},"results":62,"truncated":false,"durationMs":39,"error":null}
+{"at":"2026-09-10T17:11:13.047Z","tool":"jsnode_search","query":{"query":"section topology conformance","limit":10,"detail":false},"results":570,"truncated":false,"durationMs":34,"error":null}
+{"at":"2026-09-10T17:11:19.485Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relocating-git-directories-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:11:19.490Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/directory-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:11:29.086Z","tool":"jsnode_analysis","query":{},"results":1,"truncated":false,"durationMs":667,"error":null}
+{"at":"2026-09-10T17:11:29.784Z","tool":"jsnode_context","query":{"prompt":"Identify existing source-backed tools and real consumers for enforcing section topology, dependency direction, and file/content codec layering across the engineering tree. Do not propose new software.","limit":20,"maxBytes":12000},"results":1,"truncated":false,"durationMs":1034,"error":null}
+{"at":"2026-09-10T17:11:30.819Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/geode"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:11:34.354Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-computer-code-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:11:34.360Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-computer-system-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:14:37.156Z","tool":"jsnode_search","query":{"query":"file services","limit":5,"detail":true},"results":20,"truncated":false,"durationMs":58,"error":null}
+{"at":"2026-09-10T17:14:40.786Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T17:19:35.033Z","tool":"jsnode_search","query":{"query":"actor inbox","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":50,"error":null}
+{"at":"2026-09-10T17:19:39.114Z","tool":"jsnode_package","query":{"name":"@causeway-services/activitypub-retained-inbox-provider"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T17:19:47.798Z","tool":"jsnode_search","query":{"query":"leader inbox","limit":10,"detail":false},"results":11,"truncated":false,"durationMs":56,"error":null}
+{"at":"2026-09-10T17:22:12.520Z","tool":"jsnode_package","query":{"name":"@coesite-operations/leader-demand-harvest-service"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T17:22:12.778Z","tool":"jsnode_package","query":{"name":"@coesite-operations/leader-demand-task-admission-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T17:27:08.733Z","tool":"jsnode_search","query":{"query":"Geode","limit":10,"detail":true},"results":2,"truncated":false,"durationMs":141,"error":null}
+{"at":"2026-09-10T17:27:09.210Z","tool":"jsnode_search","query":{"query":"L-Space","limit":10,"detail":true},"results":26,"truncated":false,"durationMs":90,"error":null}
+{"at":"2026-09-10T17:27:19.596Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/geode"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T17:27:19.814Z","tool":"jsnode_package","query":{"name":"@lenticule-science/l-space"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:27:20.013Z","tool":"jsnode_package","query":{"name":"@causeway-services/vaultmaze-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T17:27:34.461Z","tool":"jsnode_search","query":{"query":"leader demand","limit":10,"detail":true},"results":2,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T17:27:34.549Z","tool":"jsnode_search","query":{"query":"founder inbox","limit":10,"detail":true},"results":10,"truncated":false,"durationMs":42,"error":null}
+{"at":"2026-09-10T17:27:34.681Z","tool":"jsnode_search","query":{"query":"git transaction push receipt","limit":10,"detail":true},"results":79,"truncated":false,"durationMs":36,"error":null}
+{"at":"2026-09-10T17:27:39.917Z","tool":"jsnode_search","query":{"query":"structured work intent","limit":10,"detail":true},"results":2,"truncated":false,"durationMs":61,"error":null}
+{"at":"2026-09-10T17:27:39.986Z","tool":"jsnode_search","query":{"query":"duty discharge","limit":10,"detail":true},"results":5,"truncated":false,"durationMs":44,"error":null}
+{"at":"2026-09-10T17:27:40.036Z","tool":"jsnode_search","query":{"query":"transacting git worktrees","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":35,"error":null}
+{"at":"2026-09-10T17:27:40.074Z","tool":"jsnode_search","query":{"query":"manage project corpus","limit":10,"detail":true},"results":2,"truncated":false,"durationMs":37,"error":null}
+{"at":"2026-09-10T17:30:05.885Z","tool":"jsnode_search","query":{"query":"computer graph engine","limit":20,"detail":true},"results":4,"truncated":false,"durationMs":67,"error":null}
+{"at":"2026-09-10T17:30:06.092Z","tool":"jsnode_search","query":{"query":"graph engine","limit":20,"detail":true},"results":26,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-10T18:00:27.818Z","tool":"jsnode_search","query":{"query":"L-Space","limit":30,"detail":true},"results":27,"truncated":false,"durationMs":131,"error":null}
+{"at":"2026-09-10T18:00:28.028Z","tool":"jsnode_context","query":{"prompt":"Map the L-Space executable ancestry and identify its direct package, CLI, application, graph, DREW, GEODE, FAE, and Sign-family dependencies. Return source paths, imports, exports, declared consumers, and explicit unavailable evidence.","focus":"L-Space Sign graph ancestry","limit":40,"maxBytes":24000},"results":1,"truncated":false,"durationMs":753,"error":null}
+{"at":"2026-09-10T18:00:48.141Z","tool":"jsnode_search","query":{"query":"sign graph","limit":30,"detail":true},"results":6,"truncated":false,"durationMs":75,"error":null}
+{"at":"2026-09-10T18:03:20.532Z","tool":"jsnode_term","query":{"name":"SignGraph"},"results":1,"truncated":false,"durationMs":30599,"error":null}
+{"at":"2026-09-10T18:03:52.494Z","tool":"jsnode_duplication","query":{"scope":"l-space","minimumBytes":48,"limit":15},"results":4,"truncated":false,"durationMs":12975,"error":null}
+{"at":"2026-09-10T18:04:10.633Z","tool":"jsnode_duplication","query":{"scope":"graph","minimumBytes":80,"limit":20},"results":7,"truncated":false,"durationMs":5785,"error":null}
+{"at":"2026-09-10T18:04:16.479Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/markdown-vault-graph-services-section"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-10T18:04:16.484Z","tool":"jsnode_term","query":{"name":"semiosis"},"results":1,"truncated":false,"durationMs":25575,"error":null}
+{"at":"2026-09-10T18:04:43.120Z","tool":"jsnode_package","query":{"name":"@lenticule-science/l-space"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T18:04:43.982Z","tool":"jsnode_term","query":{"name":"Sign"},"results":1,"truncated":false,"durationMs":16,"error":null}
+{"at":"2026-09-10T18:04:44.005Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/graph-data-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T18:05:19.321Z","tool":"jsnode_search","query":{"query":"sign graph","limit":10,"detail":false},"results":6,"truncated":false,"durationMs":62,"error":null}
+{"at":"2026-09-10T18:05:19.405Z","tool":"jsnode_search","query":{"query":"sign craft","limit":10,"detail":false},"results":2,"truncated":false,"durationMs":52,"error":null}
+{"at":"2026-09-10T18:05:19.462Z","tool":"jsnode_search","query":{"query":"sign cell","limit":10,"detail":false},"results":6,"truncated":false,"durationMs":31,"error":null}
+{"at":"2026-09-10T18:05:19.496Z","tool":"jsnode_search","query":{"query":"sign chain","limit":10,"detail":false},"results":9,"truncated":false,"durationMs":39,"error":null}
+{"at":"2026-09-10T18:05:32.497Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-chain"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-10T18:05:32.505Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-graph"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T18:05:32.509Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-cell"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T18:05:32.514Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-craft"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T18:08:43.250Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/geode"},"results":1,"truncated":false,"durationMs":13,"error":null}
+{"at":"2026-09-10T18:26:04.744Z","tool":"jsnode_search","query":{"query":"website system","limit":10,"detail":true},"results":117,"truncated":false,"durationMs":77,"error":null}
+{"at":"2026-09-10T18:26:04.937Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-web-publication-archives-service"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T18:26:05.023Z","tool":"jsnode_search","query":{"query":"public site search artifacts","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":45,"error":null}
+{"at":"2026-09-10T18:26:05.137Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-public-site-search-artifacts-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T18:26:50.120Z","tool":"jsnode_search","query":{"query":"web publication archives","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":120,"error":null}
+{"at":"2026-09-10T18:26:50.331Z","tool":"jsnode_search","query":{"query":"web feed artifacts","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":107,"error":null}
+{"at":"2026-09-10T18:26:50.458Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/victor"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T18:33:02.055Z","tool":"jsnode_duplication","query":{"limit":30},"results":6291,"truncated":true,"durationMs":61582,"error":null}

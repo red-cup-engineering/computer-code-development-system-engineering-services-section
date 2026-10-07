@@ -4,7 +4,6 @@
  * No RPC field grants custody, conformance, capacity or a filesystem fallback.
  */
 import { types } from "node:util";
-import { sourceStringWithinLimit } from "./source-request.mjs";
 const verbs = new Set(["workspace-file-window", "workspace-file-slice", "workspace-text-search"]);
 const keys = new Set(["duty", "scope", "path", "id", "startLine", "lineCount", "query", "pathPrefix", "limit", "maxFileBytes", "byteOffset", "byteCount", "expected"]);
 const refusal = reason => Object.freeze({kind:"workspace.read:obstruction", reason});
@@ -21,7 +20,7 @@ function requestOf(input) {
     if (typeof key !== "string" || !keys.has(key) || !Object.hasOwn(d, "value")) return undefined;
     const v = d.value;
     if (typeof v === "string") {
-      if (!sourceStringWithinLimit(key, v) || v.includes("\0")) return undefined;
+      if (v.length > (key === "query" ? 1024 : 512) || v.includes("\0")) return undefined;
     } else if (!Number.isSafeInteger(v) || v < 0) return undefined;
     record[key] = v;
   }
@@ -42,11 +41,7 @@ export function createWorkspaceSourceResource(binding) {
     if (!verbs.has(operation)) return refusal("unknown-source-operation");
     const record = requestOf(input);
     if (!record) return refusal("finite-source-request-required");
-    if (!execute || !context) return Object.freeze({
-      kind: "workspace.read:obstruction",
-      reason: "physical-host-source-resource-unavailable",
-      missing: Object.freeze([...(execute ? [] : ["execute"]), ...(context ? [] : ["context"])]),
-    });
+    if (!execute || !context) return refusal("physical-host-source-resource-unavailable");
     const identity = await context(operation, record, execution);
     if (!identity || types.isProxy(identity)) return refusal("original-effect-context-unavailable");
     const descriptors = Object.getOwnPropertyDescriptors(identity);
