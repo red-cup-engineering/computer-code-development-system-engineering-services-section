@@ -1,1 +1,0 @@
-export { admitArtifactFabricationRealizationPlan, admitArtifactFabricationRealizationReceipt, admitArtifactFabricationSpecification } from "@red-cup-engineering/computer-data-engineering-services-section/artifact-fabrication";

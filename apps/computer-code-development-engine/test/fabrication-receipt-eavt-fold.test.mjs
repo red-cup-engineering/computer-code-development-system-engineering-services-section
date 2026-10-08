@@ -6,7 +6,7 @@ import { admitFabricationReceipt, readBoundPackageOperations } from "../src/oper
 import assert from "node:assert/strict";
 import { createHash } from "node:crypto";
 import test from "node:test";
-import { admitArtifactFabricationRealizationReceipt, admitArtifactFabricationSpecification } from "@red-cup-engineering/computer-data-engineering-services-section/artifact-fabrication";
+import { admitArtifactFabricationRealizationReceipt, admitArtifactFabricationSpecification } from "@red-cup-engineering/computer-data-services-section/artifact-fabrication";
 import { canonicalJson } from "@red-cup-engineering/json-services-section/canonical-json";
 import { foldFabricationReceiptIntoWorldRows } from "../src/receipts.mjs";
 

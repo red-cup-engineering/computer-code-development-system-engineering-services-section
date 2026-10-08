@@ -10,7 +10,7 @@
  * @metroplatSubject source-code
  */
 import { journal } from "@red-cup-engineering/computer-system-engine/journal/journal";
-import { knowledgeJoinReading, readingAs } from "@red-cup-engineering/computer-data-engineering-services-section/four";
+import { knowledgeJoinReading, readingAs } from "@red-cup-engineering/computer-data-services-section/four";
 
 
 const LEXICON_TOKEN_PREFIX = "lexicon:";

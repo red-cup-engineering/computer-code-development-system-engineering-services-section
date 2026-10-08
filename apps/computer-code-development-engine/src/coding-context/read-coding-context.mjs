@@ -1,4 +1,4 @@
-import { sha256Digest } from "@red-cup-engineering/cryptographic-computer-data-engineering-services-section/integrity";
+import { sha256Digest } from "@red-cup-engineering/cryptographic-data-service/integrity";
 import { closeSync, existsSync, fstatSync, openSync, readSync, realpathSync, statSync } from "node:fs";
 import { dirname, join, relative, resolve, sep } from "node:path";
 

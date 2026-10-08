@@ -50,7 +50,6 @@
     "./analysis/service": "./src/analysis/service.mjs",
     "./analysis/mcp": "./src/analysis/mcp.mjs",
     "./analysis/mcp-host": "./src/analysis/mcp-host.mjs",
-    "./artifact-fabrication": "./src/artifact-fabrication.mjs",
     "./coding-context": "./src/coding-context/coding-context.mjs",
     "./coding-context/context-relevance": "./src/coding-context/context-relevance.mjs",
     "./coding-context/read-coding-context": "./src/coding-context/read-coding-context.mjs",
@@ -147,7 +146,6 @@
     "@red-cup-engineering/communicating": "workspace:*",
     "@red-cup-engineering/computer-code-engineering-services-section": "workspace:*",
     "@red-cup-engineering/computer-content-engineering-services-section": "workspace:*",
-    "@red-cup-engineering/computer-data-engineering-services-section": "workspace:*",
     "@red-cup-engineering/computer-filepath-engineering-services-section": "workspace:*",
     "@red-cup-engineering/computer-inference-engine": "workspace:*",
     "@red-cup-engineering/computer-networking-engineering-services-section": "workspace:*",
@@ -158,7 +156,7 @@
     "@red-cup-engineering/computer-web-server": "workspace:*",
     "@red-cup-engineering/computing": "workspace:*",
     "@red-cup-engineering/corpus-census-service": "workspace:*",
-    "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "workspace:*",
+    "@red-cup-engineering/cryptographic-data-service": "workspace:*",
     "@red-cup-engineering/data-custody-directory-service": "workspace:*",
     "@red-cup-engineering/eavt": "workspace:*",
     "@red-cup-engineering/execute-javascript-node-command-service": "workspace:*",
@@ -194,6 +192,7 @@
     "@red-cup-engineering/witness-journal-document-service": "workspace:*",
     "@red-cup-engineering/semiotic-eavt-services-section": "workspace:*",
     "@red-cup-engineering/services-section-form-services-section": "workspace:*",
-    "@red-cup-engineering/javascript-node-code-fabrication-services-section": "workspace:*"
+    "@red-cup-engineering/javascript-node-code-fabrication-services-section": "workspace:*",
+    "@red-cup-engineering/computer-data-services-section": "workspace:*"
   }
 }

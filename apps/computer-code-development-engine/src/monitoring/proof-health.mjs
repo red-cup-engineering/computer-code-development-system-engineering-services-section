@@ -44,7 +44,7 @@ import { readSourceCodeMonitorAggregate } from "@red-cup-engineering/computer-co
 import { readMonitorAggregate, subsystemEntry } from "@red-cup-engineering/computer-code-development-engine/monitoring/substrate/aggregate";
 import { measureProgramContract } from "@red-cup-engineering/computer-system-engine/rpc/contract";
 import { admitProgramContractEvidence } from "@red-cup-engineering/computer-system-engine/rpc/contract-evidence";
-import { bilatticeLawReceipt, kleinFourGaugeReceipt, readingFamilies } from "@red-cup-engineering/computer-data-engineering-services-section/four";
+import { bilatticeLawReceipt, kleinFourGaugeReceipt, readingFamilies } from "@red-cup-engineering/computer-data-services-section/four";
 
 /** Verify the Belnap knowledge-lattice join semantics of `moduleTopologyValuation`.
  *

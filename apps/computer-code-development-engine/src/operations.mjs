@@ -1,4 +1,4 @@
-import { defineType } from "@red-cup-engineering/computer-data-engineering-services-section/type-system";
+import { defineType } from "@red-cup-engineering/computer-data-services-section/type-system";
 import { declareCapabilityOperation, executeOperation } from "@red-cup-engineering/computer-code-engineering-services-section/typed-operation";
 import { execute as executeEavt, row as admitRow } from "@red-cup-engineering/eavt";
 import { foldFabricationReceiptIntoWorldRows } from "./receipts.mjs";

@@ -1,6 +1,6 @@
 
 import { schemaFrom } from "@red-cup-engineering/json-schema-services-section/contracts";
-import { readingFamilies } from "@red-cup-engineering/computer-data-engineering-services-section/four";
+import { readingFamilies } from "@red-cup-engineering/computer-data-services-section/four";
 
 const jsonValueSchema = {};
 const nonemptyStringSchema = { type: "string", minLength: 1 };

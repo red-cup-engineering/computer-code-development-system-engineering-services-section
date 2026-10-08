@@ -7,7 +7,7 @@ import { journalOperation } from "./journal.mjs";
  * sharing its in-process indices — no round-trip, one cache, invalidated
  * by refresh(). Tools mirror the HTTP agent surface documented there.
  */
-import { defineType } from "@red-cup-engineering/computer-data-engineering-services-section/type-system";
+import { defineType } from "@red-cup-engineering/computer-data-services-section/type-system";
 import { declareCapabilityOperation } from "@red-cup-engineering/computer-code-engineering-services-section/typed-operation";
 import { createComputerPlatform, bindingsProviders } from "@red-cup-engineering/computer-system-platform";
 import { mcpOperationTools } from "@red-cup-engineering/mcp-engineering-services-section/server";

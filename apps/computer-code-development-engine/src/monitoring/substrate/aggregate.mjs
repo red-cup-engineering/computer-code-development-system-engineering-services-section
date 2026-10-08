@@ -43,7 +43,7 @@ function evidenceRecordOfDomainCensus(census) {
 }
 
 import { artifactId } from "@red-cup-engineering/semiotic-eavt-services-section/identity";
-import { readingOfSides } from "@red-cup-engineering/computer-data-engineering-services-section/four";
+import { readingOfSides } from "@red-cup-engineering/computer-data-services-section/four";
 
 // ---------------------------------------------------------------------------
 // SubsystemReadingEntry

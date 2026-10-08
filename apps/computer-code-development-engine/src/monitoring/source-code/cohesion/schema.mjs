@@ -14,7 +14,7 @@ const stringSequenceSchema = { type: "array", items: { type: "string", minLength
 const symbolGroupSequenceSchema = { type: "array", items: stringSequenceSchema };
 
 import { EvidenceRecordSchema } from "@red-cup-engineering/metrologic/articulation/predicating/positing/evidence-record";
-import { readingSchema } from "@red-cup-engineering/computer-data-engineering-services-section/four";
+import { readingSchema } from "@red-cup-engineering/computer-data-services-section/four";
 
 const cohesionFiltrationOrdinalSchema = {
   type: "object",

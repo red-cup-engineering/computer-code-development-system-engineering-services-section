@@ -1,4 +1,4 @@
-import { census, knowledgeJoinAll, readingAs, sidesOfReading } from "@red-cup-engineering/computer-data-engineering-services-section/four";
+import { census, knowledgeJoinAll, readingAs, sidesOfReading } from "@red-cup-engineering/computer-data-services-section/four";
 /**
  * @packageDocumentation
  *

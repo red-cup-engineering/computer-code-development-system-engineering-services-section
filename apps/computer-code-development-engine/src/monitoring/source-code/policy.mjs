@@ -53,7 +53,7 @@ import {
 
 } from "./normalization.mjs";
 import { recordHistoryOfStages } from "../substrate/history.mjs";
-import { census, readingFamilies } from "@red-cup-engineering/computer-data-engineering-services-section/four";
+import { census, readingFamilies } from "@red-cup-engineering/computer-data-services-section/four";
 
 export {
   moduleTopologyNormalizationCutSchema,

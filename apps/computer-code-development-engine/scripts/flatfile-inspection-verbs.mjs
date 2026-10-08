@@ -3,7 +3,7 @@
 // (`--verbs @red-cup-engineering/computer-code-development-engine/flatfile-inspection-verbs`).
 // The verb is code: it runs this engine's package-resource inspection beside the flatfile
 // engine's provider composition. The request/response schemas are the flatfile engine's.
-import { REFUSAL_SCHEMA } from "@red-cup-engineering/computer-data-engineering-services-section/operation-refusal-schema";
+import { REFUSAL_SCHEMA } from "@red-cup-engineering/computer-data-services-section/operation-refusal-schema";
 import {
   inspectFlatfileResourceInputSchema,
   inspectFlatfileResourceOutputSchema,
