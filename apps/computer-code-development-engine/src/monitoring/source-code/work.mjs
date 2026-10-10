@@ -22,7 +22,7 @@ import {
   sourceCodePolicyRulingCell,
 
 } from "./policy.mjs";
-import { readingAs } from "@red-cup-engineering/computer-data-services-section/four";
+import { readingAs } from "@red-cup-engineering/computer-data-engineering-services-section/four";
 
 function sourceCodePolicyDenialText(ruling) {
   if (ruling.kind === "metroplat.monitoring.source-code.local-import-ruling") {
