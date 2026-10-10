@@ -22,6 +22,7 @@ import {
   sourceCodePolicyRulingCell,
 
 } from "./policy.mjs";
+import { readingAs } from "@red-cup-engineering/computer-data-services-section/four";
 
 function sourceCodePolicyDenialText(ruling) {
   if (ruling.kind === "metroplat.monitoring.source-code.local-import-ruling") {
@@ -173,7 +174,9 @@ function sourceCodePolicyDiagnosticEvidence(ruling) {
 /** Project denied or contested policy findings into executable work. */
 export function sourceCodePolicyObligations(evaluation) {
   const deniedWork = evaluation.rulings
-    .filter((ruling) => ruling.judgement === "denied")
+    // Rulings carry the knowledge-family name of their reading (`active` is told against only);
+    // compare the point, not one family's spelling of it.
+    .filter((ruling) => readingAs("extremal", ruling.judgement) === "denied")
     .map((ruling) => {
       const cell = sourceCodePolicyRulingCell(ruling);
       return Object.freeze({
