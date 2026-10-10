@@ -67,7 +67,7 @@
 {"at":"2026-09-06T01:24:56.922Z","tool":"jsnode_search","query":{"query":"schedule"},"results":11,"truncated":false,"durationMs":56,"error":null}
 {"at":"2026-09-06T01:24:56.980Z","tool":"jsnode_search","query":{"query":"daily"},"results":18,"truncated":false,"durationMs":53,"error":null}
 {"at":"2026-09-06T01:24:57.035Z","tool":"jsnode_search","query":{"query":"timer"},"results":2,"truncated":false,"durationMs":63,"error":null}
-{"at":"2026-09-06T01:27:56.649Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-file-engineering-services-section"},"results":1,"truncated":false,"durationMs":4,"error":null}
+{"at":"2026-09-06T01:27:56.649Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":4,"error":null}
 {"at":"2026-09-06T01:28:39.040Z","tool":"jsnode_search","query":{"query":"consent scope"},"results":27,"truncated":false,"durationMs":80,"error":null}
 {"at":"2026-09-06T01:28:39.442Z","tool":"jsnode_search","query":{"query":"benefit sharing"},"results":2,"truncated":false,"durationMs":65,"error":null}
 {"at":"2026-09-06T01:28:39.924Z","tool":"jsnode_search","query":{"query":"validate-json-service"},"results":3,"truncated":false,"durationMs":59,"error":null}
@@ -85,7 +85,7 @@
 {"at":"2026-09-06T01:37:56.061Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":2433,"error":null}
 {"at":"2026-09-06T01:38:01.934Z","tool":"jsnode_section","query":{"query":"no-buy ai","limit":10},"results":1,"truncated":false,"durationMs":2356,"error":null}
 {"at":"2026-09-06T01:38:20.256Z","tool":"jsnode_search","query":{"query":"newsletter issue production"},"results":2,"truncated":false,"durationMs":51,"error":null}
-{"at":"2026-09-06T01:38:22.403Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/email-newsletter-engineering-services-section"},"results":1,"truncated":false,"durationMs":3,"error":null}
+{"at":"2026-09-06T01:38:22.403Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/newsletter-issue-production-services-section"},"results":1,"truncated":false,"durationMs":3,"error":null}
 {"at":"2026-09-06T01:42:30.985Z","tool":"jsnode_search","query":{"query":"workspace import audit"},"results":43,"truncated":false,"durationMs":36,"error":null}
 {"at":"2026-09-06T01:42:37.593Z","tool":"jsnode_duplication","query":{"scope":"crock"},"results":1,"truncated":false,"durationMs":510,"error":null}
 {"at":"2026-09-06T01:45:02.987Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":467,"error":null}
@@ -144,7 +144,7 @@
 {"at":"2026-09-06T02:37:50.633Z","tool":"jsnode_search","query":{"query":"markdown table"},"results":161,"truncated":false,"durationMs":38,"error":null}
 {"at":"2026-09-06T02:41:34.933Z","tool":"jsnode_search","query":{"query":"attention allocation","limit":5},"results":2,"truncated":false,"durationMs":35,"error":null}
 {"at":"2026-09-06T02:41:34.989Z","tool":"jsnode_search","query":{"query":"inference pnl receipts cost per wit","limit":5},"results":522,"truncated":false,"durationMs":37,"error":null}
-{"at":"2026-09-06T02:43:02.200Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":2,"error":null}
+{"at":"2026-09-06T02:43:02.200Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":2,"error":null}
 {"at":"2026-09-06T02:43:02.304Z","tool":"jsnode_analysis","query":{},"results":1,"truncated":false,"durationMs":315,"error":null}
 {"at":"2026-09-06T02:44:39.624Z","tool":"jsnode_search","query":{"query":"newsletter issue production"},"results":2,"truncated":false,"durationMs":29,"error":null}
 {"at":"2026-09-06T02:44:39.856Z","tool":"jsnode_search","query":{"query":"validate json service"},"results":3,"truncated":false,"durationMs":38,"error":null}
@@ -162,7 +162,7 @@
 {"at":"2026-09-06T02:59:17.348Z","tool":"jsnode_duplication","query":{"limit":120,"scope":"computer-data"},"results":135,"truncated":true,"durationMs":864,"error":null}
 {"at":"2026-09-06T02:59:29.452Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/json-codec-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
 {"at":"2026-09-06T02:59:29.459Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/drew"},"results":1,"truncated":false,"durationMs":1,"error":null}
-{"at":"2026-09-06T02:59:29.464Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T02:59:29.464Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-06T03:01:02.679Z","tool":"jsnode_term","query":{"name":"thing"},"results":1,"truncated":false,"durationMs":8686,"error":null}
 {"at":"2026-09-06T03:01:11.369Z","tool":"jsnode_term","query":{"name":"quality"},"results":1,"truncated":false,"durationMs":7,"error":null}
 {"at":"2026-09-06T03:01:11.379Z","tool":"jsnode_term","query":{"name":"resource"},"results":1,"truncated":false,"durationMs":5,"error":null}
@@ -232,11 +232,11 @@
 {"at":"2026-09-06T03:55:42.087Z","tool":"jsnode_search","query":{"query":"workbench"},"results":0,"truncated":false,"durationMs":41,"error":null}
 {"at":"2026-09-06T04:13:25.253Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/software-mission-execution-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
 {"at":"2026-09-06T04:19:47.990Z","tool":"jsnode_section","query":{"query":"federation replication sync","limit":8},"results":1,"truncated":false,"durationMs":1114,"error":null}
-{"at":"2026-09-06T04:19:52.898Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: @red-cup-engineering/eavt-services-section"}
+{"at":"2026-09-06T04:19:52.898Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: @red-cup-engineering/eavt"}
 {"at":"2026-09-06T04:20:01.552Z","tool":"jsnode_search","query":{"query":"eavt","limit":5},"results":34,"truncated":false,"durationMs":93,"error":null}
 {"at":"2026-09-06T04:20:05.982Z","tool":"jsnode_search","query":{"query":"eavt","limit":34},"results":34,"truncated":false,"durationMs":155,"error":null}
 {"at":"2026-09-06T04:20:12.140Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":407,"error":null}
-{"at":"2026-09-06T04:20:14.479Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: @red-cup-engineering/eavt-services-section"}
+{"at":"2026-09-06T04:20:14.479Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":0,"truncated":false,"durationMs":1,"error":"package not found: @red-cup-engineering/eavt"}
 {"at":"2026-09-06T04:20:33.900Z","tool":"jsnode_search","query":{"query":"journal replicate federate witness","limit":10},"results":86,"truncated":false,"durationMs":57,"error":null}
 {"at":"2026-09-06T04:21:19.236Z","tool":"jsnode_section","query":{"query":"key-management-services-section","limit":3},"results":1,"truncated":false,"durationMs":652,"error":null}
 {"at":"2026-09-06T04:21:22.885Z","tool":"jsnode_section","query":{"query":"key management","limit":5},"results":1,"truncated":false,"durationMs":2,"error":null}
@@ -460,7 +460,7 @@
 {"at":"2026-09-06T22:56:43.792Z","tool":"jsnode_search","query":{"query":"directory template scaffold package skeleton computer-systems","limit":10},"results":218,"truncated":false,"durationMs":33,"error":null}
 {"at":"2026-09-06T22:56:43.829Z","tool":"jsnode_section","query":{"query":"computer systems directory scaffolding template","limit":5},"results":1,"truncated":false,"durationMs":1204,"error":null}
 {"at":"2026-09-06T23:10:27.276Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/filepath-services-section"},"results":1,"truncated":false,"durationMs":15,"error":null}
-{"at":"2026-09-06T23:10:27.659Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-file-engineering-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-06T23:10:27.659Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-06T23:10:27.883Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-file-url-filepath-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-06T23:12:57.455Z","tool":"jsnode_search","query":{"query":"basename filepath","limit":15},"results":1,"truncated":false,"durationMs":31,"error":null}
 {"at":"2026-09-06T23:13:03.511Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/project-filepath-basename-service"},"results":1,"truncated":false,"durationMs":6,"error":null}

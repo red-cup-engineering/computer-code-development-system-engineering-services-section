@@ -29,7 +29,7 @@
 {"at":"2026-09-08T21:20:34.466Z","tool":"jsnode_search","query":{"query":"marsh","limit":10,"detail":false},"results":0,"truncated":false,"durationMs":34,"error":null}
 {"at":"2026-09-08T21:20:34.551Z","tool":"jsnode_search","query":{"query":"eavt witness journal","limit":10,"detail":false},"results":4,"truncated":false,"durationMs":41,"error":null}
 {"at":"2026-09-08T21:20:41.038Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relating"},"results":1,"truncated":false,"durationMs":6,"error":null}
-{"at":"2026-09-08T21:20:41.126Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-08T21:20:41.126Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-08T21:20:41.182Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/metroplat"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-08T21:20:41.260Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/fae"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-08T21:21:20.481Z","tool":"jsnode_duplication","query":{"scope":"relating","minimumBytes":80,"limit":25},"results":21,"truncated":false,"durationMs":552,"error":null}

@@ -54,7 +54,7 @@
 {"at":"2026-09-10T00:33:40.262Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/go-engine-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T00:35:00.441Z","tool":"jsnode_context","query":{"focus":"weiqi","prompt":"Identify packages, exports, consumers, protocol and serialization boundaries for the Weiqi platform.","limit":30,"maxBytes":20000},"results":1,"truncated":false,"durationMs":143,"error":null}
 {"at":"2026-09-10T00:35:00.585Z","tool":"jsnode_typeflow","query":{},"results":1,"truncated":false,"durationMs":2825,"error":null}
-{"at":"2026-09-10T00:35:03.418Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-game-presence-services-section"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T00:35:03.418Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":5,"error":null}
 {"at":"2026-09-10T00:36:55.080Z","tool":"jsnode_search","query":{"query":"workspace context query","limit":20,"detail":true},"results":37,"truncated":false,"durationMs":43,"error":null}
 {"at":"2026-09-10T00:36:55.131Z","tool":"jsnode_search","query":{"query":"game session","limit":20,"detail":true},"results":1,"truncated":false,"durationMs":24,"error":null}
 {"at":"2026-09-10T00:36:55.158Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence-services-section"},"results":0,"truncated":false,"durationMs":14,"error":"package not found: @red-cup-engineering/game-presence-services-section"}
@@ -66,7 +66,7 @@
 {"at":"2026-09-10T00:58:39.307Z","tool":"jsnode_search","query":{"query":"game match session","limit":30,"detail":true},"results":80,"truncated":false,"durationMs":41,"error":null}
 {"at":"2026-09-10T00:58:39.352Z","tool":"jsnode_search","query":{"query":"correspondence game","limit":20,"detail":true},"results":52,"truncated":false,"durationMs":33,"error":null}
 {"at":"2026-09-10T00:58:39.390Z","tool":"jsnode_search","query":{"query":"rating ranking","limit":20,"detail":true},"results":12,"truncated":false,"durationMs":34,"error":null}
-{"at":"2026-09-10T00:58:39.427Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-game-presence-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T00:58:39.427Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T00:58:39.430Z","tool":"jsnode_search","query":{"query":"SGF","limit":20,"detail":true},"results":2,"truncated":false,"durationMs":27,"error":null}
 {"at":"2026-09-10T00:58:39.459Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T00:58:39.463Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/weiqi-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
@@ -140,7 +140,7 @@
 {"at":"2026-09-10T02:12:58.301Z","tool":"jsnode_search","query":{"query":"canonical JSON hash","limit":10,"detail":false},"results":108,"truncated":false,"durationMs":25,"error":null}
 {"at":"2026-09-10T02:12:58.331Z","tool":"jsnode_search","query":{"query":"resource name addressing","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":26,"error":null}
 {"at":"2026-09-10T02:12:58.360Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cbor-ni-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
-{"at":"2026-09-10T02:12:58.364Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-game-presence-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T02:12:58.364Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T02:12:58.367Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/agent-message-journal-projection-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T02:12:58.370Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semiotic-resource-name-addressing-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T02:16:38.004Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/cartridge"},"results":1,"truncated":false,"durationMs":5,"error":null}
@@ -240,11 +240,11 @@
 {"at":"2026-09-10T14:33:16.612Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/frog"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T14:33:16.616Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T14:33:16.624Z","tool":"jsnode_search","query":{"query":"RMN envelope"},"results":1,"truncated":false,"durationMs":32,"error":null}
-{"at":"2026-09-10T14:33:16.661Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-game-presence-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
+{"at":"2026-09-10T14:33:16.661Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/game-presence"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T14:33:16.665Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-content-identify-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T14:33:16.670Z","tool":"jsnode_search","query":{"query":"cloudflare-static-assets-worker"},"results":46,"truncated":false,"durationMs":33,"error":null}
 {"at":"2026-09-10T14:33:26.247Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relating"},"results":1,"truncated":false,"durationMs":1,"error":null}
-{"at":"2026-09-10T14:33:26.466Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T14:33:26.466Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T14:33:26.471Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/web-server-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T14:33:26.478Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relation-model-notation-runtime"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T14:33:26.484Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-data-type-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
@@ -286,7 +286,7 @@
 {"at":"2026-09-10T15:49:21.591Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-knowledge-systems-services-section"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-10T15:49:50.680Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/relocate-markdown-tree-service","limit":3,"detail":false},"results":1,"truncated":false,"durationMs":25,"error":null}
 {"at":"2026-09-10T15:49:50.754Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/directory-services-section","limit":3,"detail":false},"results":3,"truncated":false,"durationMs":27,"error":null}
-{"at":"2026-09-10T15:49:50.839Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/computer-file-engineering-services-section","limit":3,"detail":false},"results":17,"truncated":false,"durationMs":26,"error":null}
+{"at":"2026-09-10T15:49:50.839Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/file-services","limit":3,"detail":false},"results":17,"truncated":false,"durationMs":26,"error":null}
 {"at":"2026-09-10T15:49:50.904Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/flatfile","limit":3,"detail":false},"results":4,"truncated":false,"durationMs":25,"error":null}
 {"at":"2026-09-10T15:49:50.971Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/path-walking-service","limit":3,"detail":false},"results":1,"truncated":false,"durationMs":23,"error":null}
 {"at":"2026-09-10T15:49:51.031Z","tool":"jsnode_search","query":{"query":"@red-cup-engineering/path-prioritization-service","limit":3,"detail":false},"results":1,"truncated":false,"durationMs":22,"error":null}
@@ -342,7 +342,7 @@
 {"at":"2026-09-10T17:10:49.210Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/jsnode-engineering-cli"},"results":1,"truncated":false,"durationMs":10,"error":null}
 {"at":"2026-09-10T17:10:49.226Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/jsnode-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T17:10:49.233Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/services-section-form-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
-{"at":"2026-09-10T17:10:49.240Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-file-engineering-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-10T17:10:49.240Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T17:10:49.248Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-data-type-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T17:10:54.508Z","tool":"jsnode_search","query":{"query":"import stratification","limit":5,"detail":true},"results":23,"truncated":false,"durationMs":30,"error":null}
 {"at":"2026-09-10T17:10:54.542Z","tool":"jsnode_search","query":{"query":"jsnode topology","limit":5,"detail":true},"results":1,"truncated":false,"durationMs":30,"error":null}
@@ -363,7 +363,7 @@
 {"at":"2026-09-10T17:11:34.354Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-computer-code-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T17:11:34.360Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-computer-system-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-10T17:14:37.156Z","tool":"jsnode_search","query":{"query":"file services","limit":5,"detail":true},"results":20,"truncated":false,"durationMs":58,"error":null}
-{"at":"2026-09-10T17:14:40.786Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-file-engineering-services-section"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-10T17:14:40.786Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/file-services"},"results":1,"truncated":false,"durationMs":5,"error":null}
 {"at":"2026-09-10T17:19:35.033Z","tool":"jsnode_search","query":{"query":"actor inbox","limit":10,"detail":false},"results":1,"truncated":false,"durationMs":50,"error":null}
 {"at":"2026-09-10T17:19:39.114Z","tool":"jsnode_package","query":{"name":"@causeway-services/activitypub-retained-inbox-provider"},"results":1,"truncated":false,"durationMs":5,"error":null}
 {"at":"2026-09-10T17:19:47.798Z","tool":"jsnode_search","query":{"query":"leader inbox","limit":10,"detail":false},"results":11,"truncated":false,"durationMs":56,"error":null}
