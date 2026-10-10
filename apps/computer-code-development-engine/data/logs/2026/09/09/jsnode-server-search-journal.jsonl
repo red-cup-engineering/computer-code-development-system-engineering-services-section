@@ -63,7 +63,7 @@
 {"at":"2026-09-09T01:53:18.493Z","tool":"jsnode_search","query":{"query":"wit transition","limit":4},"results":1,"truncated":false,"durationMs":31,"error":null}
 {"at":"2026-09-09T01:53:18.527Z","tool":"jsnode_search","query":{"query":"typed inference","limit":4},"results":1,"truncated":false,"durationMs":40,"error":null}
 {"at":"2026-09-09T01:53:27.765Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/a2a-contracted-agent-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
-{"at":"2026-09-09T01:53:27.848Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-inference-system-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-09T01:53:27.848Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-inference-engine/fabric/execute-typed-inference-effect"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T01:53:27.923Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/a2a-effect-assay-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T02:00:20.352Z","tool":"jsnode_search","query":{"query":"agent work dispatch","limit":5},"results":1,"truncated":false,"durationMs":65,"error":null}
 {"at":"2026-09-09T02:02:16.101Z","tool":"jsnode_context","query":{"prompt":"Locate the canonical read-only ledger reporting capability for the 561 Group ledger, including its executable command and input/output contract.","focus":"ledger report","limit":10,"maxBytes":12000},"results":1,"truncated":false,"durationMs":239,"error":null}
