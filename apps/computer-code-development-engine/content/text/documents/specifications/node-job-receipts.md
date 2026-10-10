@@ -22,7 +22,7 @@ Three jobs in `deploy/jobs/` ended their command line with `--retain`: `persona-
 runs it with `NODE_JOB_WORKING_TREE` and `NODE_JOB_CUSTODY` set. The chain was:
 
 1. The program (`scripts/persona-tend.mjs` in `causeway-services/public-services-section`,
-   `scripts/derive-launch-census.mjs` in `red-cup-engineering/computer-services-section`) writes
+   `scripts/derive-launch-census.mjs` in `red-cup-engineering/computer-engineering-services-section`) writes
    its records into the working tree, then, given `--retain`, calls `workingTreeOf(...).retain({ paths, message })`.
 2. `retain` (`git/working-tree.mjs` in `computer-code-development-engine`) defaults to `push: true`
    and calls `commitGitPaths`.
