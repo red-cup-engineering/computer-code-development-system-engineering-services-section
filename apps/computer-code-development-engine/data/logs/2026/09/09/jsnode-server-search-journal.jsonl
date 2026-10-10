@@ -8,7 +8,7 @@
 {"at":"2026-09-09T01:21:04.505Z","tool":"jsnode_search","query":{"query":"leader-demand-harvest","limit":3},"results":2,"truncated":false,"durationMs":35,"error":null}
 {"at":"2026-09-09T01:21:04.545Z","tool":"jsnode_search","query":{"query":"typed functional","limit":3},"results":42,"truncated":false,"durationMs":35,"error":null}
 {"at":"2026-09-09T01:21:12.878Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/knowing"},"results":1,"truncated":false,"durationMs":2,"error":null}
-{"at":"2026-09-09T01:21:12.884Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-09T01:21:12.884Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T01:21:12.888Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/relating"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-09T01:21:12.906Z","tool":"jsnode_package","query":{"name":"@coesite-operations/leader-demand-harvest-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-09T01:21:12.912Z","tool":"jsnode_package","query":{"name":"@lenticule-science/metrologic"},"results":1,"truncated":false,"durationMs":0,"error":null}
@@ -63,7 +63,7 @@
 {"at":"2026-09-09T01:53:18.493Z","tool":"jsnode_search","query":{"query":"wit transition","limit":4},"results":1,"truncated":false,"durationMs":31,"error":null}
 {"at":"2026-09-09T01:53:18.527Z","tool":"jsnode_search","query":{"query":"typed inference","limit":4},"results":1,"truncated":false,"durationMs":40,"error":null}
 {"at":"2026-09-09T01:53:27.765Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/a2a-contracted-agent-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
-{"at":"2026-09-09T01:53:27.848Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-inference-engine/fabric/execute-typed-inference-effect"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-09T01:53:27.848Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/computer-inference-system-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T01:53:27.923Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/a2a-effect-assay-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T02:00:20.352Z","tool":"jsnode_search","query":{"query":"agent work dispatch","limit":5},"results":1,"truncated":false,"durationMs":65,"error":null}
 {"at":"2026-09-09T02:02:16.101Z","tool":"jsnode_context","query":{"prompt":"Locate the canonical read-only ledger reporting capability for the 561 Group ledger, including its executable command and input/output contract.","focus":"ledger report","limit":10,"maxBytes":12000},"results":1,"truncated":false,"durationMs":239,"error":null}
@@ -217,7 +217,7 @@
 {"at":"2026-09-09T05:34:44.462Z","tool":"jsnode_search","query":{"query":"cold red gate oracle vps"},"results":1157,"truncated":false,"durationMs":35,"error":null}
 {"at":"2026-09-09T05:34:44.545Z","tool":"jsnode_search","query":{"query":"MARSH metroplat"},"results":5,"truncated":false,"durationMs":30,"error":null}
 {"at":"2026-09-09T05:34:58.248Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":3,"error":null}
-{"at":"2026-09-09T05:34:58.329Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-09T05:34:58.329Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T05:34:58.407Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/metroplat"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T05:34:58.481Z","tool":"jsnode_package","query":{"name":"cold-red-gate-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T05:34:58.541Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/bare-cedar-fog-561-group"},"results":1,"truncated":false,"durationMs":1,"error":null}
@@ -249,7 +249,7 @@
 {"at":"2026-09-09T13:43:03.767Z","tool":"jsnode_search","query":{"query":"channel","limit":10,"detail":true},"results":17,"truncated":false,"durationMs":30,"error":null}
 {"at":"2026-09-09T13:43:03.841Z","tool":"jsnode_search","query":{"query":"message","limit":10,"detail":true},"results":8,"truncated":false,"durationMs":27,"error":null}
 {"at":"2026-09-09T13:43:13.172Z","tool":"jsnode_context","query":{"prompt":"CEO assessment: current shared executable substrate for modeled actors, resources, messages, channels, and work orchestration; return real owner packages, consumers, missing/relevant dependency evidence.","limit":20,"maxBytes":18000},"results":1,"truncated":false,"durationMs":482,"error":null}
-{"at":"2026-09-09T13:43:15.959Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":5,"error":null}
+{"at":"2026-09-09T13:43:15.959Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":5,"error":null}
 {"at":"2026-09-09T13:43:15.968Z","tool":"jsnode_status","query":{},"results":1,"truncated":false,"durationMs":0,"error":null}
 {"at":"2026-09-09T13:43:15.971Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T13:43:15.975Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":1,"error":null}
@@ -584,7 +584,7 @@
 {"at":"2026-09-09T16:30:17.781Z","tool":"jsnode_search","query":{"query":"principal office seating","limit":10,"detail":true},"results":1,"truncated":false,"durationMs":63,"error":null}
 {"at":"2026-09-09T16:30:23.581Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/principal-office-seating-service"},"results":1,"truncated":false,"durationMs":8,"error":null}
 {"at":"2026-09-09T16:31:13.233Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":6,"error":null}
-{"at":"2026-09-09T16:31:13.320Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-09T16:31:13.320Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T16:31:13.339Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/decide-work-placement-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T16:31:13.347Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/typed-computer-system-engine"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T16:46:21.885Z","tool":"jsnode_refresh","query":{},"results":1,"truncated":false,"durationMs":947,"error":null}
@@ -650,7 +650,7 @@
 {"at":"2026-09-09T19:35:09.520Z","tool":"jsnode_search","query":{"query":"EAVT","limit":20,"detail":true},"results":34,"truncated":false,"durationMs":49,"error":null}
 {"at":"2026-09-09T19:36:02.310Z","tool":"jsnode_search","query":{"query":"relation model notation","limit":10,"detail":true},"results":13,"truncated":false,"durationMs":55,"error":null}
 {"at":"2026-09-09T19:36:02.373Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-record-journal-service"},"results":1,"truncated":false,"durationMs":4,"error":null}
-{"at":"2026-09-09T19:36:02.382Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-09T19:36:02.382Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T19:36:41.096Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/semantic-record-journal-service"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T19:36:47.417Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/witness-journal-entry-service"},"results":1,"truncated":false,"durationMs":2,"error":null}
 {"at":"2026-09-09T19:36:47.424Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/witness-journal-log-service"},"results":1,"truncated":false,"durationMs":0,"error":null}
@@ -784,7 +784,7 @@
 {"at":"2026-09-09T21:44:47.276Z","tool":"jsnode_search","query":{"query":"feltos","limit":20,"detail":true},"results":6,"truncated":false,"durationMs":56,"error":null}
 {"at":"2026-09-09T21:46:31.322Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/actor"},"results":1,"truncated":false,"durationMs":4,"error":null}
 {"at":"2026-09-09T21:46:31.332Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/feltos"},"results":1,"truncated":false,"durationMs":1,"error":null}
-{"at":"2026-09-09T21:46:31.342Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt-services-section"},"results":1,"truncated":false,"durationMs":1,"error":null}
+{"at":"2026-09-09T21:46:31.342Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/eavt"},"results":1,"truncated":false,"durationMs":1,"error":null}
 {"at":"2026-09-09T21:51:34.461Z","tool":"jsnode_package","query":{"name":"@red-cup-engineering/sign-cell"},"results":1,"truncated":false,"durationMs":2,"error":null}
 {"at":"2026-09-09T22:38:49.027Z","tool":"jsnode_search","query":{"query":"FARS federation","limit":10,"detail":false},"results":14,"truncated":false,"durationMs":154,"error":null}
 {"at":"2026-09-09T22:38:59.069Z","tool":"jsnode_search","query":{"query":"FeltOS","limit":10,"detail":true},"results":6,"truncated":false,"durationMs":108,"error":null}
