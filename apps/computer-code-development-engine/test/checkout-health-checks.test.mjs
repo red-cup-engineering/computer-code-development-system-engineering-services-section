@@ -64,7 +64,7 @@ test("checkoutScanPaths never throws when a directory is unreadable mid-walk", (
 test("houseScopedLockfileRegistryViolations flags a house-scoped resolved URL off the canonical registry", () => {
   const lock = JSON.stringify({
     packages: {
-      "node_modules/@red-cup-engineering/eavt/actor": { name: "@red-cup-engineering/eavt/actor", resolved: "https://registry.561.group/@red-cup-engineering/eavt/actor/-/actor-0.1.0.tgz" },
+      "node_modules/@red-cup-engineering/eavt-services-section/actor": { name: "@red-cup-engineering/eavt-services-section/actor", resolved: "https://registry.561.group/@red-cup-engineering/eavt-services-section/actor/-/actor-0.1.0.tgz" },
       "node_modules/@red-cup-engineering/stale": { name: "@red-cup-engineering/stale", resolved: "http://127.0.0.1:4873/@red-cup-engineering/stale/-/stale-0.1.0.tgz" },
       "node_modules/acorn": { name: "acorn", resolved: "https://registry.npmjs.org/acorn/-/acorn-8.15.0.tgz" },
     },
@@ -180,7 +180,7 @@ test("readCheckoutHealth: a scripts/x.mjs importing node:fs is one builtin-impor
     assert.equal(builtinFindings[0].path, join(pkgDir, "scripts", "x.mjs"));
     assert.equal(builtinFindings[0].line, 1);
     assert.equal(builtinFindings[0].builtin, "node:fs");
-    assert.equal(builtinFindings[0].houseService, "@red-cup-engineering/file-services");
+    assert.equal(builtinFindings[0].houseService, "@red-cup-engineering/computer-file-engineering-services-section");
   } finally {
     rmSync(scratch, { recursive: true, force: true });
   }

@@ -1,7 +1,7 @@
 import { mkdtemp, mkdir, writeFile, readFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
-import { decode } from "@red-cup-engineering/eavt";
+import { decode } from "@red-cup-engineering/eavt-services-section";
 import { admitFabricationReceipt, readBoundPackageOperations } from "../src/operations.mjs";
 import assert from "node:assert/strict";
 import { createHash } from "node:crypto";

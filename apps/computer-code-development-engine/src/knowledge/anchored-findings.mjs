@@ -14,7 +14,7 @@ import path from "node:path";
 import { TextDecoder } from "node:util";
 import { gitBlobIdOf } from "@red-cup-engineering/git-services-section/git-object-id";
 import { journal, openJournal } from "@red-cup-engineering/computer-system-engine/journal/journal";
-import { toEavt } from "@red-cup-engineering/eavt/row";
+import { toEavt } from "@red-cup-engineering/eavt-services-section/row";
 import { artifactId } from "@red-cup-engineering/semiotic-eavt-services-section/identity";
 import { GATE_CHARACTERS } from "./finding-delivery.mjs";
 import { documentSections } from "./document-sections.mjs";

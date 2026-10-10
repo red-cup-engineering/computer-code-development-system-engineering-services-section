@@ -1,11 +1,11 @@
 import { defineType } from "@red-cup-engineering/computer-data-engineering-services-section/type-system";
 import { declareCapabilityOperation, executeOperation } from "@red-cup-engineering/computer-code-engineering-services-section/typed-operation";
-import { execute as executeEavt, row as admitRow } from "@red-cup-engineering/eavt";
+import { execute as executeEavt, row as admitRow } from "@red-cup-engineering/eavt-services-section";
 import { foldFabricationReceiptIntoWorldRows } from "./receipts.mjs";
 import { readJsnodeOperationArguments } from "@red-cup-engineering/javascript-node-services-section/syntax";
 import { inspectInstalledNpmPackageResolution } from "@red-cup-engineering/inspect-installed-npm-package-service";
 import { walkPosixPaths } from "@red-cup-engineering/computer-filepath-engineering-services-section/walk-posix-paths";
-import { readTextFile } from "@red-cup-engineering/file-services/read-text-file";
+import { readTextFile } from "@red-cup-engineering/computer-file-engineering-services-section/read-text-file";
 import { CATALOG_PROFILE, classifyResource, compileCatalog } from "@red-cup-engineering/computer-content-engineering-services-section/catalog";
 import { realpath } from "node:fs/promises";
 import { join, relative, resolve } from "node:path";

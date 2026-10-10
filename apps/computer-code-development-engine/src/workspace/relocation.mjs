@@ -7,7 +7,7 @@
  */
 import { mergeDirectoryContents } from "@red-cup-engineering/computer-filepath-engineering-services-section/merge-directory-contents";
 import { relocateDirectory } from "@red-cup-engineering/computer-filepath-engineering-services-section/relocate-directory";
-import { statPath } from "@red-cup-engineering/file-services/stat-path";
+import { statPath } from "@red-cup-engineering/computer-file-engineering-services-section/stat-path";
 import { gitWorktreePlan, splitNullOutput } from "@red-cup-engineering/git-services-section/git-command-codec";
 import { executeJavascriptNodeCommandAsynchronously } from "@red-cup-engineering/execute-javascript-node-command-service/asynchronously";
 

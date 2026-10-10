@@ -14,12 +14,12 @@
 none
 ## Package
 ```json
-{"packageName":"@red-cup-engineering/check-hand-registered-operations-service","packageVersion":"0.1.0","license":"UNLICENSED","dependencies":{"@red-cup-engineering/file-services":"0.2.1"},"devDependencies":{"@red-cup-engineering/remove-path-service":"0.1.0"}}
+{"packageName":"@red-cup-engineering/check-hand-registered-operations-service","packageVersion":"0.1.0","license":"UNLICENSED","dependencies":{"@red-cup-engineering/computer-file-engineering-services-section":"0.2.1"},"devDependencies":{"@red-cup-engineering/remove-path-service":"0.1.0"}}
 ```
 ## Operation
 ```mjs path=scripts/check-hand-registered-operations.mjs
 #!/usr/bin/env node
-import { readFileText } from "@red-cup-engineering/file-services/read-file";
+import { readFileText } from "@red-cup-engineering/computer-file-engineering-services-section/read-file";
 
 const HAND_REGISTERED_YIELD = /yield\s+Object\.freeze\(\{\s*module:\s*"([^"]+)"/gu;
 
@@ -74,7 +74,7 @@ import { randomUUID } from "node:crypto";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import test from "node:test";
-import { writeFileText } from "@red-cup-engineering/file-services/write-file";
+import { writeFileText } from "@red-cup-engineering/computer-file-engineering-services-section/write-file";
 import { removePath } from "@red-cup-engineering/remove-path-service";
 import { checkHandRegisteredOperations } from "../scripts/check-hand-registered-operations.mjs";
 

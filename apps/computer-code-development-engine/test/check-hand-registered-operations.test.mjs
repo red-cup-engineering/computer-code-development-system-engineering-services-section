@@ -4,7 +4,7 @@ import { rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import test from "node:test";
-import { writeFileText } from "@red-cup-engineering/file-services/write-file";
+import { writeFileText } from "@red-cup-engineering/computer-file-engineering-services-section/write-file";
 import { checkHandRegisteredOperations } from "../scripts/check-hand-registered-operations.mjs";
 
 const SAMPLE_CATALOG = `function* serviceSources() {

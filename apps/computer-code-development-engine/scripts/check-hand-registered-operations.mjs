@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFileText } from "@red-cup-engineering/file-services/read-file";
+import { readFileText } from "@red-cup-engineering/computer-file-engineering-services-section/read-file";
 import { runJavascriptNodeOperation } from "@red-cup-engineering/javascript-node-services-section/operation";
 
 const HAND_REGISTERED_YIELD = /yield\s+Object\.freeze\(\{\s*module:\s*"([^"]+)"/gu;

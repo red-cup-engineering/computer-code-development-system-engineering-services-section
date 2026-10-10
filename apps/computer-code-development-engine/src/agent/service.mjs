@@ -7,7 +7,7 @@ import { operation } from "@red-cup-engineering/computer-system-engine/rpc/opera
 import { rpcAdmittedStepCollector, rpcStepRowOf } from "@red-cup-engineering/computer-system-engine/journal/reading/rpc-sequence";
 
 import { parse } from "@red-cup-engineering/json-services-section";
-import { dataDatePartition } from "@red-cup-engineering/eavt/data-artifact-address";
+import { dataDatePartition } from "@red-cup-engineering/eavt-services-section/data-artifact-address";
 
 import { journal } from "@red-cup-engineering/computer-system-engine/journal/journal";
 import { readFeedProjection } from "@red-cup-engineering/feltos/agents/feed-readout";
@@ -41,7 +41,7 @@ import { agentOrientationReadout } from "./orientation.mjs";
 import { agentSkillProposalDossier } from "./skill-proposals.mjs";
 import { agentStrategyDossier } from "@red-cup-engineering/feltos/agents/strategy";
 import { agentTurnDossier } from "@red-cup-engineering/feltos/agents/turn";
-import { eavtRecord } from "@red-cup-engineering/eavt/row";
+import { eavtRecord } from "@red-cup-engineering/eavt-services-section/row";
 import { codeDevelopmentAgentDomain as domain } from "./code-development-domain.mjs";
 
 /** Keep one synchronous autonomic actuation inside an interactive turn. A

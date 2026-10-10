@@ -17,7 +17,7 @@ import {
   proofPlayReadoutContract,
 
 } from "@red-cup-engineering/computer-code-development-engine/monitoring/proof-play/schema";
-import { artifactTier } from "@red-cup-engineering/eavt/statement";
+import { artifactTier } from "@red-cup-engineering/eavt-services-section/statement";
 
 export { proofPlayReadoutContract } from "@red-cup-engineering/computer-code-development-engine/monitoring/proof-play/schema";
 

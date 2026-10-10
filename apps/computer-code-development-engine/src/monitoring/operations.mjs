@@ -83,7 +83,7 @@ import {
   packageFormNormalizationSchema,
 } from "@red-cup-engineering/computer-code-development-engine/workspace/package-form/schema";
 import { schemaFrom } from "@red-cup-engineering/json-schema-services-section/contracts";
-import { eavtRecord } from "@red-cup-engineering/eavt/row";
+import { eavtRecord } from "@red-cup-engineering/eavt-services-section/row";
 
 /** Process/application configuration for source-code monitoring adapters. */
 

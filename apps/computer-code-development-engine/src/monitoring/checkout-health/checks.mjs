@@ -387,7 +387,7 @@ export function youtubeChannelRepositoryFormFindings(
  * catalog under `root`, ratcheting its hand-imported-family count against
  * the baseline recorded at this package's own `data/records/2026-09-05-
  * hand-registered-operations-baseline.json`. Async (the composed check
- * reads its subject file through `@red-cup-engineering/file-services`) --
+ * reads its subject file through `@red-cup-engineering/computer-file-engineering-services-section`) --
  * callers await this before passing its result into {@link readCheckoutHealth}'s
  * synchronous `handRegisteredOperations` option, since `readCheckoutHealth`
  * itself stays synchronous for its many existing callers. Reports no

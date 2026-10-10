@@ -3,7 +3,7 @@ import { mkdtemp, mkdir, writeFile, rm, symlink, readFile } from "node:fs/promis
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import test from "node:test";
-import { encode } from "@red-cup-engineering/eavt";
+import { encode } from "@red-cup-engineering/eavt-services-section";
 import { readBoundPackageOperations, inspectPackageResource } from "../src/operations.mjs";
 import { readJsnodeOperationArguments } from "@red-cup-engineering/javascript-node-services-section/syntax";
 
