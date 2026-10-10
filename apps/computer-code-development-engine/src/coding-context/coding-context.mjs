@@ -3,7 +3,7 @@ import { readCodingContext } from "./read-coding-context.mjs";
 // buildContext assembles the material a model needs BEFORE it is asked to generate a patch:
 // a bounded repo map, files the task/tests point at, and any similar already-solved cases.
 // Deterministic; injectable; the thing you improve instead of swapping models.
-import { sha256Digest } from "@red-cup-engineering/cryptographic-data-service/integrity";
+import { sha256Digest } from "@red-cup-engineering/cryptographic-computer-data-engineering-services-section/integrity";
 import { existsSync } from "node:fs";
 import { dirname, join, relative, resolve, sep } from "node:path";
 import { executeJavascriptNodeCommand } from "@red-cup-engineering/execute-javascript-node-command-service";

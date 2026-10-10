@@ -56,7 +56,7 @@ import {
   evidenceRecordTopMass,
   addEvidenceRecords,
 } from "@red-cup-engineering/metrologic/articulation/predicating/positing/evidence-record";
-import { readingOfSides } from "@red-cup-engineering/computer-data-services-section/four";
+import { readingOfSides } from "@red-cup-engineering/computer-data-engineering-services-section/four";
 
 const DEFAULT_MIN_SYMBOLS = 5;
 

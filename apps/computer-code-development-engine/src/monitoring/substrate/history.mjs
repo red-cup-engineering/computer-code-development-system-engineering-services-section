@@ -14,7 +14,7 @@
  * monitoring domain re-exports from here for backward compatibility; any new
  * domain (infrastructure, supply-chain, knowledge-graph, …) imports directly.
  */
-import { recordLeqK, recordLeqT } from "@red-cup-engineering/computer-data-services-section/four";
+import { recordLeqK, recordLeqT } from "@red-cup-engineering/computer-data-engineering-services-section/four";
 
 /** Compare two evidence records in the Belnap knowledge order.
  *

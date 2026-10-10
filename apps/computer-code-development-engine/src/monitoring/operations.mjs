@@ -4,7 +4,7 @@ import { workspaceReadoutOperations } from "../workspace/readout.mjs";
 
 import { operation } from "@red-cup-engineering/computer-system-engine/rpc/operation";
 import { operationHandlerResult } from "@red-cup-engineering/computer-system-engine/rpc/execution-context";
-import { tm } from "@red-cup-engineering/computer-data-services-section/semiotic-expression-notation";
+import { tm } from "@red-cup-engineering/computer-data-engineering-services-section/semiotic-expression-notation";
 
 import { INITIAL_CAUSAL_RESOURCE_ENVELOPE } from "@red-cup-engineering/semiotic-eavt-services-section/journal/witness";
 import { journal, openJournal } from "@red-cup-engineering/computer-system-engine/journal/journal";

@@ -19,7 +19,7 @@ import {
   truthJoinReading as joinTruth,
   knowledgeMeetReading as meetKnowledge,
   truthMeetReading as meetTruth,
-} from "@red-cup-engineering/computer-data-services-section/four";
+} from "@red-cup-engineering/computer-data-engineering-services-section/four";
 import {
   readingOfEvidenceRecord,
   evidenceRecord,
@@ -43,7 +43,7 @@ import { settleCausalSet } from "@red-cup-engineering/metrologic/articulation/pr
 import { authorizationFromStanding, dispatch } from "@red-cup-engineering/computer-system-engine/rpc/dispatch";
 import { createOperationCatalog, operation } from "@red-cup-engineering/computer-system-engine/rpc/operation";
 import { invocation } from "@red-cup-engineering/computer-system-engine/rpc/invocation";
-import { tm } from "@red-cup-engineering/computer-data-services-section/semiotic-expression-notation";
+import { tm } from "@red-cup-engineering/computer-data-engineering-services-section/semiotic-expression-notation";
 import { nodeDeclarationReference, nodeBeingLayerFilenameSuffixes, nodeBeingLayerOfFilenameSuffix, nodeSubjectAnchor, nodeBeingTaxon, readNodeBeingTaxon } from "@red-cup-engineering/communicating/language/jsnode/taxonomy";
 import { nodeBeingDocumentationProjectionIsValid } from "@red-cup-engineering/communicating/language/jsnode/documentation";
 import { articulate } from "@red-cup-engineering/communicating-in-english";

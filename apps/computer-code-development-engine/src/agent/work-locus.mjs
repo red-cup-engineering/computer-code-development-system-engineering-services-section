@@ -7,7 +7,7 @@ import { assertNonemptyString as nonempty } from "@red-cup-engineering/json-serv
 import { schemaFrom } from "@red-cup-engineering/json-schema-services-section/contracts";
 import { readJuralRelations } from "@red-cup-engineering/socializing/jural";
 import { governanceSchema } from "@red-cup-engineering/organizing/work/schema";
-import { readingAs } from "@red-cup-engineering/computer-data-services-section/four";
+import { readingAs } from "@red-cup-engineering/computer-data-engineering-services-section/four";
 import { capabilityView, capabilityViewSchema } from "@red-cup-engineering/computer-networking-engineering-services-section/object-capability";
 
 export const workLocusClaimSchema = {

@@ -156,7 +156,7 @@
     "@red-cup-engineering/computer-web-server": "workspace:*",
     "@red-cup-engineering/computing": "workspace:*",
     "@red-cup-engineering/corpus-census-service": "workspace:*",
-    "@red-cup-engineering/cryptographic-data-service": "workspace:*",
+    "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "workspace:*",
     "@red-cup-engineering/data-custody-directory-service": "workspace:*",
     "@red-cup-engineering/eavt": "workspace:*",
     "@red-cup-engineering/execute-javascript-node-command-service": "workspace:*",
@@ -193,6 +193,6 @@
     "@red-cup-engineering/semiotic-eavt-services-section": "workspace:*",
     "@red-cup-engineering/services-section-form-services-section": "workspace:*",
     "@red-cup-engineering/javascript-node-code-fabrication-services-section": "workspace:*",
-    "@red-cup-engineering/computer-data-services-section": "workspace:*"
+    "@red-cup-engineering/computer-data-engineering-services-section": "workspace:*"
   }
 }

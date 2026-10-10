@@ -12,7 +12,7 @@ import { lstatSync, mkdtempSync, readFileSync, realpathSync, rmSync } from "node
 import { tmpdir } from "node:os";
 import path from "node:path";
 
-import { sha256Digest } from "@red-cup-engineering/cryptographic-data-service/integrity";
+import { sha256Digest } from "@red-cup-engineering/cryptographic-computer-data-engineering-services-section/integrity";
 import { gitRestorePlan as plan, readLfsPointer, readOid, readRepositoryRestoreRequest } from "@red-cup-engineering/git-services-section/git-command-codec";
 
 import { executeGitPlan } from "./runner.mjs";
