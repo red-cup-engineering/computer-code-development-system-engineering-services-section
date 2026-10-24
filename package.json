@@ -1,5 +1,5 @@
 {
-  "name": "@red-cup-engineering/computer-code-development-system-engineering-services-section",
+  "name": "@red-cup-engineering/computer-code-development-system-services-section",
   "version": "0.1.0",
   "type": "module",
   "description": "Groups the computer code-development system: the engine that runs effects over code workspaces (codemods, relocations, analysis, receipts) and, with version control, is where development happens.",
