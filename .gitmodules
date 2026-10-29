@@ -2,10 +2,22 @@
 	path = apps/computer-code-development-engine
 	url = https://github.com/red-cup-engineering/computer-systems-fabrication-engineering-services-section.git
 	branch = main
-[submodule "services/computer-systems-engineering-services-section/services/computer-code-development-system-services-section/services/continuous-delivery-services-section"]
-	path = services/continuous-delivery-services-section
-	url = https://github.com/red-cup-engineering/continuous-delivery-engineering-services-section.git
-	branch = main
 [submodule "services/git-engineering-services-section"]
 	path = services/git-engineering-services-section
 	url = https://github.com/red-cup-engineering/git-engineering-services-section.git
+[submodule "services/software-development-engineering-services-section"]
+	path = services/software-development-engineering-services-section
+	url = https://github.com/red-cup-engineering/software-development-engineering-services-section.git
+	branch = main
+[submodule "services/software-forge-engineering-services-section"]
+	path = services/software-forge-engineering-services-section
+	url = https://github.com/red-cup-engineering/software-forge-engineering-services-section.git
+	branch = main
+[submodule "services/npm-workspace-publication-service"]
+	path = services/npm-workspace-publication-service
+	url = https://github.com/red-cup-engineering/npm-workspace-publication-service.git
+	branch = main
+[submodule "services/continuous-delivery-engineering-services-section"]
+	path = services/continuous-delivery-engineering-services-section
+	url = https://github.com/red-cup-engineering/continuous-delivery-engineering-services-section.git
+	branch = main
