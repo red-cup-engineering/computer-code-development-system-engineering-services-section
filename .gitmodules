@@ -6,7 +6,6 @@
 	path = services/continuous-delivery-services-section
 	url = https://github.com/red-cup-engineering/continuous-delivery-engineering-services-section.git
 	branch = main
-[submodule "github-reconciliation-service"]
-	path = services/github-reconciliation-service
-	url = https://github.com/red-cup-engineering/github-reconciliation-service.git
-	branch = main
+[submodule "services/git-engineering-services-section"]
+	path = services/git-engineering-services-section
+	url = https://github.com/red-cup-engineering/git-engineering-services-section.git
